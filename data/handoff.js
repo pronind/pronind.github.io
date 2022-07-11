@@ -47,7 +47,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
             "tp": "Symbol",
             "c": [
              {
-              "x": 25.84521484375,
+              "x": 25.844970703125,
               "y": 24.215087890625,
               "w": 34.13249588012695,
               "h": 26.5987491607666,
@@ -1000,7 +1000,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
                   "tp": "Symbol",
                   "c": [
                    {
-                    "x": 442.2060546875,
+                    "x": 442.206298828125,
                     "y": 167.177734375,
                     "w": 9.588347434997559,
                     "h": 9.643210411071777,
@@ -1523,7 +1523,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
                     "pr": " border-radius : 2px;\nborder-color: #2f54eb;\nborder-width : 1px;\n"
                    },
                    {
-                    "x": 1142.6875,
+                    "x": 1142.6878662109375,
                     "y": 283,
                     "w": 10.62421703338623,
                     "h": 7.621751308441162,
@@ -1749,7 +1749,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
                     "pr": " border-radius : 2px;\nborder-color: #2f54eb;\nborder-width : 1px;\n"
                    },
                    {
-                    "x": 1142.6875,
+                    "x": 1142.6878662109375,
                     "y": 343,
                     "w": 10.62421703338623,
                     "h": 7.621751308441162,
@@ -1875,8 +1875,8 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
             "tp": "Symbol",
             "c": [
              {
-              "x": 25.84521484375,
-              "y": 24.215087890625,
+              "x": 25.844970703125,
+              "y": 24.2149658203125,
               "w": 34.13249588012695,
               "h": 26.5987491607666,
               "ii": 165,
@@ -2713,10 +2713,10 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
                 "tp": "Symbol",
                 "c": [
                  {
-                  "x": 599.75,
+                  "x": 599.750244140625,
                   "y": 97.751953125,
-                  "w": 12.500001907348633,
-                  "h": 12.500001907348633,
+                  "w": 12.500000953674316,
+                  "h": 12.500000953674316,
                   "ii": 239,
                   "n": "Vector",
                   "tp": "ShapePath",
@@ -2998,7 +2998,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
                   "tp": "Symbol",
                   "c": [
                    {
-                    "x": 549.2060546875,
+                    "x": 549.206298828125,
                     "y": 167.177734375,
                     "w": 9.588347434997559,
                     "h": 9.643210411071777,
@@ -3517,7 +3517,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
                         "pr": "background-color: #d9d9d9;\n"
                        },
                        {
-                        "x": 574.66650390625,
+                        "x": 574.666748046875,
                         "y": 280.8353271484375,
                         "w": 8.4375,
                         "h": 10.329082489013672,
@@ -3799,7 +3799,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
                         "pr": "background-color: #d9d9d9;\n"
                        },
                        {
-                        "x": 574.66650390625,
+                        "x": 574.666748046875,
                         "y": 340.8353271484375,
                         "w": 8.4375,
                         "h": 10.329082489013672,
@@ -4060,7 +4060,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
         "c": [
          {
           "x": 319,
-          "y": 16.000244140625,
+          "y": 16.00018310546875,
           "w": 257,
           "h": 44,
           "ii": 356,
@@ -4069,7 +4069,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
           "c": [
            {
             "x": 319,
-            "y": 22.000244140625,
+            "y": 22.00018310546875,
             "w": 257,
             "h": 32,
             "ii": 357,
@@ -4078,7 +4078,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
             "c": [
              {
               "x": 319,
-              "y": 22.000244140625,
+              "y": 22.00018310546875,
               "w": 257,
               "h": 32,
               "ii": 358,
@@ -4335,10 +4335,10 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
                 "tp": "Symbol",
                 "c": [
                  {
-                  "x": 599.75,
-                  "y": 97.751953125,
-                  "w": 12.500001907348633,
-                  "h": 12.500001907348633,
+                  "x": 599.750244140625,
+                  "y": 97.75189208984375,
+                  "w": 12.500000953674316,
+                  "h": 12.500000953674316,
                   "ii": 381,
                   "n": "Vector",
                   "tp": "ShapePath",
@@ -4620,7 +4620,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
                   "tp": "Symbol",
                   "c": [
                    {
-                    "x": 549.2060546875,
+                    "x": 549.206298828125,
                     "y": 167.177734375,
                     "w": 9.588347434997559,
                     "h": 9.643210411071777,
@@ -4831,7 +4831,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
                         "pr": "background-color: #d9d9d9;\n"
                        },
                        {
-                        "x": 574.66650390625,
+                        "x": 574.666748046875,
                         "y": 220.8353271484375,
                         "w": 8.4375,
                         "h": 10.329082489013672,
@@ -5180,7 +5180,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
                         "pr": "background-color: #d9d9d9;\n"
                        },
                        {
-                        "x": 574.66650390625,
+                        "x": 574.666748046875,
                         "y": 280.8353271484375,
                         "w": 8.4375,
                         "h": 10.329082489013672,
@@ -5509,7 +5509,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
                         "pr": "background-color: #d9d9d9;\n"
                        },
                        {
-                        "x": 574.66650390625,
+                        "x": 574.666748046875,
                         "y": 340.8353271484375,
                         "w": 8.4375,
                         "h": 10.329082489013672,
@@ -5774,8 +5774,8 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
             "tp": "Symbol",
             "c": [
              {
-              "x": 25.84521484375,
-              "y": 24.2149658203125,
+              "x": 25.844970703125,
+              "y": 24.21502685546875,
               "w": 34.13249588012695,
               "h": 26.5987491607666,
               "ii": 507,
@@ -6469,7 +6469,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
             "tp": "Symbol",
             "c": [
              {
-              "x": 25.84521484375,
+              "x": 25.844970703125,
               "y": 24.214996337890625,
               "w": 34.13249588012695,
               "h": 26.5987491607666,
@@ -6587,7 +6587,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
                  },
                  {
                   "x": 25.6669921875,
-                  "y": 95.66700744628906,
+                  "y": 95.6669921875,
                   "w": 16.666000366210938,
                   "h": 16.666000366210938,
                   "ii": 579,
@@ -6686,7 +6686,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
                    },
                    {
                     "x": 25.68212890625,
-                    "y": 143.66699981689453,
+                    "y": 143.6669921875,
                     "w": 16.61542510986328,
                     "h": 16.666000366210938,
                     "ii": 588,
@@ -7415,7 +7415,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
           "tp": "Symbol",
           "c": [
            {
-            "x": 25.84521484375,
+            "x": 25.844970703125,
             "y": 24.2149658203125,
             "w": 34.13249588012695,
             "h": 26.5987491607666,
@@ -9710,7 +9710,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
                   "tp": "Symbol",
                   "c": [
                    {
-                    "x": 221.2060546875,
+                    "x": 221.206298828125,
                     "y": 167.177734375,
                     "w": 9.588347434997559,
                     "h": 9.643210411071777,
@@ -10233,7 +10233,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
                     "pr": " border-radius : 2px;\nborder-color: #2f54eb;\nborder-width : 1px;\n"
                    },
                    {
-                    "x": 1142.6875,
+                    "x": 1142.6878662109375,
                     "y": 283,
                     "w": 10.62421703338623,
                     "h": 7.621751308441162,
@@ -10459,7 +10459,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
                     "pr": " border-radius : 2px;\nborder-color: #2f54eb;\nborder-width : 1px;\n"
                    },
                    {
-                    "x": 1142.6875,
+                    "x": 1142.6878662109375,
                     "y": 343,
                     "w": 10.62421703338623,
                     "h": 7.621751308441162,
@@ -11206,10 +11206,10 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
                 "tp": "Symbol",
                 "c": [
                  {
-                  "x": 599.75,
+                  "x": 599.750244140625,
                   "y": 97.751953125,
-                  "w": 12.500001907348633,
-                  "h": 12.500001907348633,
+                  "w": 12.500000953674316,
+                  "h": 12.500000953674316,
                   "ii": 983,
                   "n": "Vector",
                   "tp": "ShapePath",
@@ -11491,7 +11491,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
                   "tp": "Symbol",
                   "c": [
                    {
-                    "x": 549.2060546875,
+                    "x": 549.206298828125,
                     "y": 167.177734375,
                     "w": 9.588347434997559,
                     "h": 9.643210411071777,
@@ -11763,7 +11763,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "pr": ""
              },
              {
-              "x": 977.998046875,
+              "x": 977.9979858398438,
               "y": 215,
               "w": 40,
               "h": 22,
@@ -11777,7 +11777,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
             "pr": ""
            },
            {
-            "x": 1041.998046875,
+            "x": 1041.9979858398438,
             "y": 210,
             "w": 178.0019989013672,
             "h": 32,
@@ -11786,7 +11786,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
             "tp": "ShapePath",
             "c": [
              {
-              "x": 1041.998046875,
+              "x": 1041.9979858398438,
               "y": 216,
               "w": 20,
               "h": 20,
@@ -11795,7 +11795,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "tp": "Symbol",
               "c": [
                {
-                "x": 1041.998046875,
+                "x": 1041.9979858398438,
                 "y": 216,
                 "w": 20,
                 "h": 20,
@@ -11804,7 +11804,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
                 "tp": "Group",
                 "c": [
                  {
-                  "x": 1041.998046875,
+                  "x": 1041.9979858398438,
                   "y": 216,
                   "w": 20,
                   "h": 20,
@@ -11814,7 +11814,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
                   "pr": "background-color: #d9d9d9;\n"
                  },
                  {
-                  "x": 1044.498046875,
+                  "x": 1044.4979858398438,
                   "y": 219.0003662109375,
                   "w": 15,
                   "h": 13.957292556762695,
@@ -11829,7 +11829,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "s": "icon/material/volume_up"
              },
              {
-              "x": 1077.998046875,
+              "x": 1077.9979858398438,
               "y": 223.99951171875,
               "w": 78.00199890136719,
               "h": 4.000999927520752,
@@ -11838,7 +11838,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "tp": "Symbol",
               "c": [
                {
-                "x": 1077.998046875,
+                "x": 1077.9979858398438,
                 "y": 225.99951171875,
                 "w": 0.0010000000474974513,
                 "h": 0.0010000000474974513,
@@ -11849,7 +11849,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
                 "pr": ""
                },
                {
-                "x": 1155.9990234375,
+                "x": 1155.9989929199219,
                 "y": 225.99951171875,
                 "w": 0.0010000000474974513,
                 "h": 0.0010000000474974513,
@@ -11858,7 +11858,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
                 "tp": "ShapePath",
                 "c": [
                  {
-                  "x": 1148.998046875,
+                  "x": 1148.9980163574219,
                   "y": 218.99951171875,
                   "w": 14.00100040435791,
                   "h": 14.00100040435791,
@@ -11875,7 +11875,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "s": "components/slider"
              },
              {
-              "x": 1172,
+              "x": 1171.999984741211,
               "y": 210,
               "w": 48,
               "h": 32,
@@ -12010,7 +12010,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
                         "pr": "background-color: #d9d9d9;\n"
                        },
                        {
-                        "x": 574.6669921875,
+                        "x": 574.6666870117188,
                         "y": 280.8353271484375,
                         "w": 8.4375,
                         "h": 10.329082489013672,
@@ -12045,7 +12045,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "pr": ""
              },
              {
-              "x": 977.998046875,
+              "x": 977.9979858398438,
               "y": 275,
               "w": 40,
               "h": 22,
@@ -12059,7 +12059,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
             "pr": ""
            },
            {
-            "x": 1041.998046875,
+            "x": 1041.9979858398438,
             "y": 270,
             "w": 178.0019989013672,
             "h": 32,
@@ -12068,7 +12068,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
             "tp": "ShapePath",
             "c": [
              {
-              "x": 1041.998046875,
+              "x": 1041.9979858398438,
               "y": 276,
               "w": 20,
               "h": 20,
@@ -12077,7 +12077,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "tp": "Symbol",
               "c": [
                {
-                "x": 1041.998046875,
+                "x": 1041.9979858398438,
                 "y": 276,
                 "w": 20,
                 "h": 20,
@@ -12086,7 +12086,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
                 "tp": "Group",
                 "c": [
                  {
-                  "x": 1041.998046875,
+                  "x": 1041.9979858398438,
                   "y": 276,
                   "w": 20,
                   "h": 20,
@@ -12096,7 +12096,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
                   "pr": "background-color: #d9d9d9;\n"
                  },
                  {
-                  "x": 1044.498046875,
+                  "x": 1044.4979858398438,
                   "y": 279.0003662109375,
                   "w": 15,
                   "h": 13.957292556762695,
@@ -12111,7 +12111,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "s": "icon/material/volume_up"
              },
              {
-              "x": 1077.998046875,
+              "x": 1077.9979858398438,
               "y": 283.99951171875,
               "w": 78.00199890136719,
               "h": 4.000999927520752,
@@ -12120,7 +12120,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "tp": "Symbol",
               "c": [
                {
-                "x": 1077.998046875,
+                "x": 1077.9979858398438,
                 "y": 285.99951171875,
                 "w": 0.0010000000474974513,
                 "h": 0.0010000000474974513,
@@ -12131,7 +12131,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
                 "pr": ""
                },
                {
-                "x": 1155.9990234375,
+                "x": 1155.9989929199219,
                 "y": 285.99951171875,
                 "w": 0.0010000000474974513,
                 "h": 0.0010000000474974513,
@@ -12140,7 +12140,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
                 "tp": "ShapePath",
                 "c": [
                  {
-                  "x": 1148.998046875,
+                  "x": 1148.9980163574219,
                   "y": 278.99951171875,
                   "w": 14.00100040435791,
                   "h": 14.00100040435791,
@@ -12157,7 +12157,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "s": "components/slider"
              },
              {
-              "x": 1172,
+              "x": 1171.999984741211,
               "y": 270,
               "w": 48,
               "h": 32,
@@ -12292,7 +12292,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
                         "pr": "background-color: #d9d9d9;\n"
                        },
                        {
-                        "x": 574.6669921875,
+                        "x": 574.6666870117188,
                         "y": 340.8353271484375,
                         "w": 8.4375,
                         "h": 10.329082489013672,
@@ -12351,7 +12351,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "pr": ""
              },
              {
-              "x": 977.998046875,
+              "x": 977.9979858398438,
               "y": 335,
               "w": 40,
               "h": 22,
@@ -12365,7 +12365,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
             "pr": ""
            },
            {
-            "x": 1041.998046875,
+            "x": 1041.9979858398438,
             "y": 330,
             "w": 178.0019989013672,
             "h": 32,
@@ -12374,7 +12374,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
             "tp": "ShapePath",
             "c": [
              {
-              "x": 1041.998046875,
+              "x": 1041.9979858398438,
               "y": 336,
               "w": 20,
               "h": 20,
@@ -12383,7 +12383,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "tp": "Symbol",
               "c": [
                {
-                "x": 1041.998046875,
+                "x": 1041.9979858398438,
                 "y": 336,
                 "w": 20,
                 "h": 20,
@@ -12392,7 +12392,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
                 "tp": "Group",
                 "c": [
                  {
-                  "x": 1041.998046875,
+                  "x": 1041.9979858398438,
                   "y": 336,
                   "w": 20,
                   "h": 20,
@@ -12402,7 +12402,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
                   "pr": "background-color: #d9d9d9;\n"
                  },
                  {
-                  "x": 1044.498046875,
+                  "x": 1044.4979858398438,
                   "y": 339.0003662109375,
                   "w": 15,
                   "h": 13.957292556762695,
@@ -12417,7 +12417,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "s": "icon/material/volume_up"
              },
              {
-              "x": 1077.998046875,
+              "x": 1077.9979858398438,
               "y": 343.99951171875,
               "w": 78.00199890136719,
               "h": 4.000999927520752,
@@ -12426,7 +12426,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "tp": "Symbol",
               "c": [
                {
-                "x": 1077.998046875,
+                "x": 1077.9979858398438,
                 "y": 345.99951171875,
                 "w": 0.0010000000474974513,
                 "h": 0.0010000000474974513,
@@ -12437,7 +12437,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
                 "pr": ""
                },
                {
-                "x": 1155.9990234375,
+                "x": 1155.9989929199219,
                 "y": 345.99951171875,
                 "w": 0.0010000000474974513,
                 "h": 0.0010000000474974513,
@@ -12446,7 +12446,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
                 "tp": "ShapePath",
                 "c": [
                  {
-                  "x": 1148.998046875,
+                  "x": 1148.9980163574219,
                   "y": 338.99951171875,
                   "w": 14.00100040435791,
                   "h": 14.00100040435791,
@@ -12463,7 +12463,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "s": "components/slider"
              },
              {
-              "x": 1172,
+              "x": 1171.999984741211,
               "y": 330,
               "w": 48,
               "h": 32,
@@ -12566,8 +12566,8 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
             "tp": "Symbol",
             "c": [
              {
-              "x": 25.8447265625,
-              "y": 24.215087890625,
+              "x": 25.844970703125,
+              "y": 24.2149658203125,
               "w": 34.13249588012695,
               "h": 26.5987491607666,
               "ii": 1102,
@@ -12782,7 +12782,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
                     "pr": "background-color: #d9d9d9;\n"
                    },
                    {
-                    "x": 25.6826171875,
+                    "x": 25.68212890625,
                     "y": 143.6669921875,
                     "w": 16.61542510986328,
                     "h": 16.666000366210938,
@@ -13189,7 +13189,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
     "tp": "Symbol",
     "c": [
      {
-      "x": 369,
+      "x": 368.999755859375,
       "y": 118,
       "w": 280,
       "h": 315,
@@ -13198,7 +13198,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
       "tp": "Symbol",
       "c": [
        {
-        "x": 369,
+        "x": 368.999755859375,
         "y": 118,
         "w": 280,
         "h": 7,
@@ -13207,7 +13207,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
         "tp": "ShapePath",
         "c": [
          {
-          "x": 389,
+          "x": 388.999755859375,
           "y": 118,
           "w": 14.142135620117188,
           "h": 7.071067810058594,
@@ -13220,7 +13220,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
         "pr": ""
        },
        {
-        "x": 369,
+        "x": 368.999755859375,
         "y": 125,
         "w": 280,
         "h": 40,
@@ -13229,7 +13229,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
         "tp": "ShapePath",
         "c": [
          {
-          "x": 377,
+          "x": 376.999755859375,
           "y": 125,
           "w": 22,
           "h": 40,
@@ -13238,7 +13238,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
           "tp": "ShapePath",
           "c": [
            {
-            "x": 383,
+            "x": 382.999755859375,
             "y": 140,
             "w": 6.060660362243652,
             "h": 10,
@@ -13248,7 +13248,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
             "pr": "background-color: #00000040;\n"
            },
            {
-            "x": 389,
+            "x": 388.999755859375,
             "y": 140,
             "w": 6.060660362243652,
             "h": 10,
@@ -13261,7 +13261,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
           "pr": ""
          },
          {
-          "x": 399,
+          "x": 398.999755859375,
           "y": 125,
           "w": 22,
           "h": 40,
@@ -13270,7 +13270,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
           "tp": "ShapePath",
           "c": [
            {
-            "x": 405,
+            "x": 404.999755859375,
             "y": 140,
             "w": 6.060660362243652,
             "h": 10,
@@ -13283,7 +13283,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
           "pr": ""
          },
          {
-          "x": 619,
+          "x": 618.999755859375,
           "y": 125,
           "w": 22,
           "h": 40,
@@ -13292,7 +13292,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
           "tp": "ShapePath",
           "c": [
            {
-            "x": 628.939453125,
+            "x": 628.9390869140625,
             "y": 140,
             "w": 6.060660362243652,
             "h": 10,
@@ -13302,7 +13302,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
             "pr": "border-color: #00000040;\nborder-width : 1.5px;\nbackground-color: #ffffff;\n"
            },
            {
-            "x": 622.87890625,
+            "x": 622.8783569335938,
             "y": 140,
             "w": 6.060660362243652,
             "h": 10,
@@ -13315,7 +13315,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
           "pr": ""
          },
          {
-          "x": 597,
+          "x": 596.999755859375,
           "y": 125,
           "w": 22,
           "h": 40,
@@ -13324,7 +13324,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
           "tp": "ShapePath",
           "c": [
            {
-            "x": 606.939453125,
+            "x": 606.9390869140625,
             "y": 140,
             "w": 6.060660362243652,
             "h": 10,
@@ -13340,7 +13340,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
         "pr": "background-color: #ffffff;\n"
        },
        {
-        "x": 369,
+        "x": 368.999755859375,
         "y": 165,
         "w": 280,
         "h": 226,
@@ -13349,7 +13349,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
         "tp": "ShapePath",
         "c": [
          {
-          "x": 381,
+          "x": 380.999755859375,
           "y": 173,
           "w": 256,
           "h": 210,
@@ -13358,7 +13358,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
           "tp": "ShapePath",
           "c": [
            {
-            "x": 381,
+            "x": 380.999755859375,
             "y": 173,
             "w": 256,
             "h": 30,
@@ -13367,7 +13367,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
             "tp": "ShapePath",
             "c": [
              {
-              "x": 381,
+              "x": 380.999755859375,
               "y": 173,
               "w": 36,
               "h": 30,
@@ -13378,7 +13378,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "pr": "font-family: SF Pro Display;\nfont-size: 14px;\nfont-weight: 400;\nline-height: 28px;\ntext-transform: none;\nletter-spacing: 0%;\n-pt-paragraph-spacing: 0;\nbackground-color: #000000d9;\n"
              },
              {
-              "x": 417.6669921875,
+              "x": 417.66644287109375,
               "y": 173,
               "w": 36,
               "h": 30,
@@ -13389,7 +13389,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "pr": "font-family: SF Pro Display;\nfont-size: 14px;\nfont-weight: 400;\nline-height: 28px;\ntext-transform: none;\nletter-spacing: 0%;\n-pt-paragraph-spacing: 0;\nbackground-color: #000000d9;\n"
              },
              {
-              "x": 454.3330078125,
+              "x": 454.33306884765625,
               "y": 173,
               "w": 36,
               "h": 30,
@@ -13400,7 +13400,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "pr": "font-family: SF Pro Display;\nfont-size: 14px;\nfont-weight: 400;\nline-height: 28px;\ntext-transform: none;\nletter-spacing: 0%;\n-pt-paragraph-spacing: 0;\nbackground-color: #000000d9;\n"
              },
              {
-              "x": 491,
+              "x": 490.999755859375,
               "y": 173,
               "w": 36,
               "h": 30,
@@ -13411,7 +13411,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "pr": "font-family: SF Pro Display;\nfont-size: 14px;\nfont-weight: 400;\nline-height: 28px;\ntext-transform: none;\nletter-spacing: 0%;\n-pt-paragraph-spacing: 0;\nbackground-color: #000000d9;\n"
              },
              {
-              "x": 527.6669921875,
+              "x": 527.6664428710938,
               "y": 173,
               "w": 36,
               "h": 30,
@@ -13422,7 +13422,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "pr": "font-family: SF Pro Display;\nfont-size: 14px;\nfont-weight: 400;\nline-height: 28px;\ntext-transform: none;\nletter-spacing: 0%;\n-pt-paragraph-spacing: 0;\nbackground-color: #000000d9;\n"
              },
              {
-              "x": 564.3330078125,
+              "x": 564.3331298828125,
               "y": 173,
               "w": 36,
               "h": 30,
@@ -13433,7 +13433,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "pr": "font-family: SF Pro Display;\nfont-size: 14px;\nfont-weight: 400;\nline-height: 28px;\ntext-transform: none;\nletter-spacing: 0%;\n-pt-paragraph-spacing: 0;\nbackground-color: #000000d9;\n"
              },
              {
-              "x": 601,
+              "x": 600.999755859375,
               "y": 173,
               "w": 36,
               "h": 30,
@@ -13447,7 +13447,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
             "pr": ""
            },
            {
-            "x": 381,
+            "x": 380.999755859375,
             "y": 203,
             "w": 256,
             "h": 30,
@@ -13456,7 +13456,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
             "tp": "ShapePath",
             "c": [
              {
-              "x": 387,
+              "x": 386.999755859375,
               "y": 206,
               "w": 24,
               "h": 24,
@@ -13465,7 +13465,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "tp": "Symbol",
               "c": [
                {
-                "x": 390.5,
+                "x": 390.499755859375,
                 "y": 207,
                 "w": 17,
                 "h": 22,
@@ -13479,7 +13479,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "s": "In View=false, Today=false, Selected=false, ⬑ Range Start=false, ⬑ In Range=false, ⬑ Range End=false, Hovered=false, Disabled=false"
              },
              {
-              "x": 423.6669921875,
+              "x": 423.66644287109375,
               "y": 206,
               "w": 24,
               "h": 24,
@@ -13488,7 +13488,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "tp": "Symbol",
               "c": [
                {
-                "x": 426.6669921875,
+                "x": 426.66644287109375,
                 "y": 207,
                 "w": 18,
                 "h": 22,
@@ -13502,7 +13502,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "s": "In View=false, Today=false, Selected=false, ⬑ Range Start=false, ⬑ In Range=false, ⬑ Range End=false, Hovered=false, Disabled=false"
              },
              {
-              "x": 460.3330078125,
+              "x": 460.33306884765625,
               "y": 206,
               "w": 24,
               "h": 24,
@@ -13511,7 +13511,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "tp": "Symbol",
               "c": [
                {
-                "x": 463.3330078125,
+                "x": 463.33306884765625,
                 "y": 207,
                 "w": 18,
                 "h": 22,
@@ -13525,7 +13525,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "s": "In View=false, Today=false, Selected=false, ⬑ Range Start=false, ⬑ In Range=false, ⬑ Range End=false, Hovered=false, Disabled=false"
              },
              {
-              "x": 497,
+              "x": 496.999755859375,
               "y": 206,
               "w": 24,
               "h": 24,
@@ -13534,7 +13534,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "tp": "Symbol",
               "c": [
                {
-                "x": 500,
+                "x": 499.999755859375,
                 "y": 207,
                 "w": 18,
                 "h": 22,
@@ -13548,7 +13548,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "s": "In View=false, Today=false, Selected=false, ⬑ Range Start=false, ⬑ In Range=false, ⬑ Range End=false, Hovered=false, Disabled=false"
              },
              {
-              "x": 533.6669921875,
+              "x": 533.6664428710938,
               "y": 206,
               "w": 24,
               "h": 24,
@@ -13557,7 +13557,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "tp": "Symbol",
               "c": [
                {
-                "x": 542.1669921875,
+                "x": 542.1664428710938,
                 "y": 207,
                 "w": 7,
                 "h": 22,
@@ -13571,7 +13571,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "s": "In View=true, Today=false, Selected=false, ⬑ Range Start=false, ⬑ In Range=false, ⬑ Range End=false, Hovered=false, Disabled=false"
              },
              {
-              "x": 570.3330078125,
+              "x": 570.3331298828125,
               "y": 206,
               "w": 24,
               "h": 24,
@@ -13580,7 +13580,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "tp": "Symbol",
               "c": [
                {
-                "x": 577.8330078125,
+                "x": 577.8331298828125,
                 "y": 207,
                 "w": 9,
                 "h": 22,
@@ -13594,7 +13594,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "s": "In View=true, Today=false, Selected=false, ⬑ Range Start=false, ⬑ In Range=false, ⬑ Range End=false, Hovered=false, Disabled=false"
              },
              {
-              "x": 607,
+              "x": 606.999755859375,
               "y": 206,
               "w": 24,
               "h": 24,
@@ -13603,7 +13603,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "tp": "Symbol",
               "c": [
                {
-                "x": 614.5,
+                "x": 614.499755859375,
                 "y": 207,
                 "w": 9,
                 "h": 22,
@@ -13620,7 +13620,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
             "pr": ""
            },
            {
-            "x": 381,
+            "x": 380.999755859375,
             "y": 233,
             "w": 256,
             "h": 30,
@@ -13629,7 +13629,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
             "tp": "ShapePath",
             "c": [
              {
-              "x": 387,
+              "x": 386.999755859375,
               "y": 236,
               "w": 24,
               "h": 24,
@@ -13638,7 +13638,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "tp": "Symbol",
               "c": [
                {
-                "x": 394.5,
+                "x": 394.499755859375,
                 "y": 237,
                 "w": 9,
                 "h": 22,
@@ -13652,7 +13652,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "s": "In View=true, Today=false, Selected=false, ⬑ Range Start=false, ⬑ In Range=false, ⬑ Range End=false, Hovered=false, Disabled=false"
              },
              {
-              "x": 423.6669921875,
+              "x": 423.66644287109375,
               "y": 236,
               "w": 24,
               "h": 24,
@@ -13661,7 +13661,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "tp": "Symbol",
               "c": [
                {
-                "x": 431.1669921875,
+                "x": 431.16644287109375,
                 "y": 237,
                 "w": 9,
                 "h": 22,
@@ -13675,7 +13675,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "s": "In View=true, Today=false, Selected=false, ⬑ Range Start=false, ⬑ In Range=false, ⬑ Range End=false, Hovered=false, Disabled=false"
              },
              {
-              "x": 460.3330078125,
+              "x": 460.33306884765625,
               "y": 236,
               "w": 24,
               "h": 24,
@@ -13684,7 +13684,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "tp": "Symbol",
               "c": [
                {
-                "x": 467.8330078125,
+                "x": 467.83306884765625,
                 "y": 237,
                 "w": 9,
                 "h": 22,
@@ -13698,7 +13698,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "s": "In View=true, Today=false, Selected=false, ⬑ Range Start=false, ⬑ In Range=false, ⬑ Range End=false, Hovered=false, Disabled=false"
              },
              {
-              "x": 497,
+              "x": 496.999755859375,
               "y": 236,
               "w": 24,
               "h": 24,
@@ -13707,7 +13707,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "tp": "Symbol",
               "c": [
                {
-                "x": 505,
+                "x": 504.999755859375,
                 "y": 237,
                 "w": 8,
                 "h": 22,
@@ -13721,7 +13721,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "s": "In View=true, Today=false, Selected=false, ⬑ Range Start=false, ⬑ In Range=false, ⬑ Range End=false, Hovered=false, Disabled=false"
              },
              {
-              "x": 533.6669921875,
+              "x": 533.6664428710938,
               "y": 236,
               "w": 24,
               "h": 24,
@@ -13730,7 +13730,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "tp": "Symbol",
               "c": [
                {
-                "x": 541.1669921875,
+                "x": 541.1664428710938,
                 "y": 237,
                 "w": 9,
                 "h": 22,
@@ -13744,7 +13744,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "s": "In View=true, Today=false, Selected=false, ⬑ Range Start=false, ⬑ In Range=false, ⬑ Range End=false, Hovered=false, Disabled=false"
              },
              {
-              "x": 570.3330078125,
+              "x": 570.3331298828125,
               "y": 236,
               "w": 24,
               "h": 24,
@@ -13753,7 +13753,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "tp": "Symbol",
               "c": [
                {
-                "x": 577.8330078125,
+                "x": 577.8331298828125,
                 "y": 237,
                 "w": 9,
                 "h": 22,
@@ -13767,7 +13767,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "s": "In View=true, Today=false, Selected=false, ⬑ Range Start=false, ⬑ In Range=false, ⬑ Range End=false, Hovered=false, Disabled=false"
              },
              {
-              "x": 607,
+              "x": 606.999755859375,
               "y": 236,
               "w": 24,
               "h": 24,
@@ -13776,7 +13776,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "tp": "Symbol",
               "c": [
                {
-                "x": 611,
+                "x": 610.999755859375,
                 "y": 237,
                 "w": 16,
                 "h": 22,
@@ -13793,7 +13793,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
             "pr": ""
            },
            {
-            "x": 381,
+            "x": 380.999755859375,
             "y": 263,
             "w": 256,
             "h": 30,
@@ -13802,7 +13802,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
             "tp": "ShapePath",
             "c": [
              {
-              "x": 387,
+              "x": 386.999755859375,
               "y": 266,
               "w": 24,
               "h": 24,
@@ -13811,7 +13811,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "tp": "Symbol",
               "c": [
                {
-                "x": 392,
+                "x": 391.999755859375,
                 "y": 267,
                 "w": 14,
                 "h": 22,
@@ -13825,7 +13825,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "s": "In View=true, Today=false, Selected=false, ⬑ Range Start=false, ⬑ In Range=false, ⬑ Range End=false, Hovered=false, Disabled=false"
              },
              {
-              "x": 423.6669921875,
+              "x": 423.66644287109375,
               "y": 266,
               "w": 24,
               "h": 24,
@@ -13834,7 +13834,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "tp": "Symbol",
               "c": [
                {
-                "x": 428.1669921875,
+                "x": 428.16644287109375,
                 "y": 267,
                 "w": 15,
                 "h": 22,
@@ -13848,7 +13848,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "s": "In View=true, Today=false, Selected=false, ⬑ Range Start=false, ⬑ In Range=false, ⬑ Range End=false, Hovered=false, Disabled=false"
              },
              {
-              "x": 460.3330078125,
+              "x": 460.33306884765625,
               "y": 266,
               "w": 24,
               "h": 24,
@@ -13857,7 +13857,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "tp": "Symbol",
               "c": [
                {
-                "x": 464.3330078125,
+                "x": 464.33306884765625,
                 "y": 267,
                 "w": 16,
                 "h": 22,
@@ -13871,7 +13871,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "s": "In View=true, Today=false, Selected=false, ⬑ Range Start=false, ⬑ In Range=false, ⬑ Range End=false, Hovered=false, Disabled=false"
              },
              {
-              "x": 497,
+              "x": 496.999755859375,
               "y": 266,
               "w": 24,
               "h": 24,
@@ -13880,7 +13880,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "tp": "Symbol",
               "c": [
                {
-                "x": 501,
+                "x": 500.999755859375,
                 "y": 267,
                 "w": 16,
                 "h": 22,
@@ -13894,7 +13894,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "s": "In View=true, Today=false, Selected=false, ⬑ Range Start=false, ⬑ In Range=false, ⬑ Range End=false, Hovered=false, Disabled=false"
              },
              {
-              "x": 533.6669921875,
+              "x": 533.6664428710938,
               "y": 266,
               "w": 24,
               "h": 24,
@@ -13903,7 +13903,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "tp": "Symbol",
               "c": [
                {
-                "x": 537.6669921875,
+                "x": 537.6664428710938,
                 "y": 267,
                 "w": 16,
                 "h": 22,
@@ -13917,7 +13917,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "s": "In View=true, Today=false, Selected=false, ⬑ Range Start=false, ⬑ In Range=false, ⬑ Range End=false, Hovered=false, Disabled=false"
              },
              {
-              "x": 570.3330078125,
+              "x": 570.3331298828125,
               "y": 266,
               "w": 24,
               "h": 24,
@@ -13926,7 +13926,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "tp": "Symbol",
               "c": [
                {
-                "x": 574.3330078125,
+                "x": 574.3331298828125,
                 "y": 267,
                 "w": 16,
                 "h": 22,
@@ -13940,7 +13940,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "s": "In View=true, Today=false, Selected=false, ⬑ Range Start=false, ⬑ In Range=false, ⬑ Range End=false, Hovered=false, Disabled=false"
              },
              {
-              "x": 607,
+              "x": 606.999755859375,
               "y": 266,
               "w": 24,
               "h": 24,
@@ -13949,7 +13949,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "tp": "Symbol",
               "c": [
                {
-                "x": 611.5,
+                "x": 611.499755859375,
                 "y": 267,
                 "w": 15,
                 "h": 22,
@@ -13966,7 +13966,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
             "pr": ""
            },
            {
-            "x": 381,
+            "x": 380.999755859375,
             "y": 293,
             "w": 256,
             "h": 30,
@@ -13975,7 +13975,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
             "tp": "ShapePath",
             "c": [
              {
-              "x": 387,
+              "x": 386.999755859375,
               "y": 296,
               "w": 24,
               "h": 24,
@@ -13984,7 +13984,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "tp": "Symbol",
               "c": [
                {
-                "x": 391,
+                "x": 390.999755859375,
                 "y": 297,
                 "w": 16,
                 "h": 22,
@@ -13998,7 +13998,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "s": "In View=true, Today=false, Selected=false, ⬑ Range Start=false, ⬑ In Range=false, ⬑ Range End=false, Hovered=false, Disabled=false"
              },
              {
-              "x": 423.6669921875,
+              "x": 423.66644287109375,
               "y": 296,
               "w": 24,
               "h": 24,
@@ -14007,7 +14007,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "tp": "Symbol",
               "c": [
                {
-                "x": 427.6669921875,
+                "x": 427.66644287109375,
                 "y": 297,
                 "w": 16,
                 "h": 22,
@@ -14021,7 +14021,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "s": "In View=true, Today=false, Selected=false, ⬑ Range Start=false, ⬑ In Range=false, ⬑ Range End=false, Hovered=false, Disabled=false"
              },
              {
-              "x": 460.3330078125,
+              "x": 460.33306884765625,
               "y": 296,
               "w": 24,
               "h": 24,
@@ -14030,7 +14030,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "tp": "Symbol",
               "c": [
                {
-                "x": 463.3330078125,
+                "x": 463.33306884765625,
                 "y": 297,
                 "w": 18,
                 "h": 22,
@@ -14044,7 +14044,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "s": "In View=true, Today=false, Selected=false, ⬑ Range Start=false, ⬑ In Range=false, ⬑ Range End=false, Hovered=false, Disabled=false"
              },
              {
-              "x": 497,
+              "x": 496.999755859375,
               "y": 296,
               "w": 24,
               "h": 24,
@@ -14053,7 +14053,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "tp": "Symbol",
               "c": [
                {
-                "x": 501.5,
+                "x": 501.499755859375,
                 "y": 297,
                 "w": 15,
                 "h": 22,
@@ -14067,7 +14067,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "s": "In View=true, Today=false, Selected=false, ⬑ Range Start=false, ⬑ In Range=false, ⬑ Range End=false, Hovered=false, Disabled=false"
              },
              {
-              "x": 533.6669921875,
+              "x": 533.6664428710938,
               "y": 296,
               "w": 24,
               "h": 24,
@@ -14076,7 +14076,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "tp": "Symbol",
               "c": [
                {
-                "x": 537.1669921875,
+                "x": 537.1664428710938,
                 "y": 297,
                 "w": 17,
                 "h": 22,
@@ -14090,7 +14090,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "s": "In View=true, Today=true, Selected=false, ⬑ Range Start=false, ⬑ In Range=false, ⬑ Range End=false, Hovered=false, Disabled=false"
              },
              {
-              "x": 570.3330078125,
+              "x": 570.3331298828125,
               "y": 296,
               "w": 24,
               "h": 24,
@@ -14099,7 +14099,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "tp": "Symbol",
               "c": [
                {
-                "x": 573.3330078125,
+                "x": 573.3331298828125,
                 "y": 297,
                 "w": 18,
                 "h": 22,
@@ -14113,7 +14113,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "s": "In View=true, Today=false, Selected=true, ⬑ Range Start=false, ⬑ In Range=false, ⬑ Range End=false, Hovered=false, Disabled=false"
              },
              {
-              "x": 607,
+              "x": 606.999755859375,
               "y": 296,
               "w": 24,
               "h": 24,
@@ -14122,7 +14122,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "tp": "Symbol",
               "c": [
                {
-                "x": 610,
+                "x": 609.999755859375,
                 "y": 297,
                 "w": 18,
                 "h": 22,
@@ -14139,7 +14139,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
             "pr": ""
            },
            {
-            "x": 381,
+            "x": 380.999755859375,
             "y": 323,
             "w": 256,
             "h": 30,
@@ -14148,7 +14148,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
             "tp": "ShapePath",
             "c": [
              {
-              "x": 387,
+              "x": 386.999755859375,
               "y": 326,
               "w": 24,
               "h": 24,
@@ -14157,7 +14157,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "tp": "Symbol",
               "c": [
                {
-                "x": 390.5,
+                "x": 390.499755859375,
                 "y": 327,
                 "w": 17,
                 "h": 22,
@@ -14171,7 +14171,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "s": "In View=true, Today=false, Selected=false, ⬑ Range Start=false, ⬑ In Range=false, ⬑ Range End=false, Hovered=false, Disabled=false"
              },
              {
-              "x": 423.6669921875,
+              "x": 423.66644287109375,
               "y": 326,
               "w": 24,
               "h": 24,
@@ -14180,7 +14180,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "tp": "Symbol",
               "c": [
                {
-                "x": 426.6669921875,
+                "x": 426.66644287109375,
                 "y": 327,
                 "w": 18,
                 "h": 22,
@@ -14194,7 +14194,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "s": "In View=true, Today=false, Selected=false, ⬑ Range Start=false, ⬑ In Range=false, ⬑ Range End=false, Hovered=false, Disabled=false"
              },
              {
-              "x": 460.3330078125,
+              "x": 460.33306884765625,
               "y": 326,
               "w": 24,
               "h": 24,
@@ -14203,7 +14203,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "tp": "Symbol",
               "c": [
                {
-                "x": 463.8330078125,
+                "x": 463.83306884765625,
                 "y": 327,
                 "w": 17,
                 "h": 22,
@@ -14217,7 +14217,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "s": "In View=true, Today=false, Selected=false, ⬑ Range Start=false, ⬑ In Range=false, ⬑ Range End=false, Hovered=false, Disabled=false"
              },
              {
-              "x": 497,
+              "x": 496.999755859375,
               "y": 326,
               "w": 24,
               "h": 24,
@@ -14226,7 +14226,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "tp": "Symbol",
               "c": [
                {
-                "x": 500,
+                "x": 499.999755859375,
                 "y": 327,
                 "w": 18,
                 "h": 22,
@@ -14240,7 +14240,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "s": "In View=true, Today=false, Selected=false, ⬑ Range Start=false, ⬑ In Range=false, ⬑ Range End=false, Hovered=false, Disabled=false"
              },
              {
-              "x": 533.6669921875,
+              "x": 533.6664428710938,
               "y": 326,
               "w": 24,
               "h": 24,
@@ -14249,7 +14249,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "tp": "Symbol",
               "c": [
                {
-                "x": 536.6669921875,
+                "x": 536.6664428710938,
                 "y": 327,
                 "w": 18,
                 "h": 22,
@@ -14263,7 +14263,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "s": "In View=true, Today=false, Selected=false, ⬑ Range Start=false, ⬑ In Range=false, ⬑ Range End=false, Hovered=false, Disabled=false"
              },
              {
-              "x": 570.3330078125,
+              "x": 570.3331298828125,
               "y": 326,
               "w": 24,
               "h": 24,
@@ -14272,7 +14272,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "tp": "Symbol",
               "c": [
                {
-                "x": 573.3330078125,
+                "x": 573.3331298828125,
                 "y": 327,
                 "w": 18,
                 "h": 22,
@@ -14286,7 +14286,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "s": "In View=true, Today=false, Selected=false, ⬑ Range Start=false, ⬑ In Range=false, ⬑ Range End=false, Hovered=false, Disabled=false"
              },
              {
-              "x": 607,
+              "x": 606.999755859375,
               "y": 326,
               "w": 24,
               "h": 24,
@@ -14295,7 +14295,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "tp": "Symbol",
               "c": [
                {
-                "x": 611,
+                "x": 610.999755859375,
                 "y": 327,
                 "w": 16,
                 "h": 22,
@@ -14312,7 +14312,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
             "pr": ""
            },
            {
-            "x": 381,
+            "x": 380.999755859375,
             "y": 353,
             "w": 256,
             "h": 30,
@@ -14321,7 +14321,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
             "tp": "ShapePath",
             "c": [
              {
-              "x": 387,
+              "x": 386.999755859375,
               "y": 356,
               "w": 24,
               "h": 24,
@@ -14330,7 +14330,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "tp": "Symbol",
               "c": [
                {
-                "x": 395.5,
+                "x": 395.499755859375,
                 "y": 357,
                 "w": 7,
                 "h": 22,
@@ -14344,7 +14344,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "s": "In View=false, Today=false, Selected=false, ⬑ Range Start=false, ⬑ In Range=false, ⬑ Range End=false, Hovered=false, Disabled=false"
              },
              {
-              "x": 423.6669921875,
+              "x": 423.66644287109375,
               "y": 356,
               "w": 24,
               "h": 24,
@@ -14353,7 +14353,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "tp": "Symbol",
               "c": [
                {
-                "x": 431.1669921875,
+                "x": 431.16644287109375,
                 "y": 357,
                 "w": 9,
                 "h": 22,
@@ -14367,7 +14367,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "s": "In View=false, Today=false, Selected=false, ⬑ Range Start=false, ⬑ In Range=false, ⬑ Range End=false, Hovered=false, Disabled=false"
              },
              {
-              "x": 460.3330078125,
+              "x": 460.33306884765625,
               "y": 356,
               "w": 24,
               "h": 24,
@@ -14376,7 +14376,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "tp": "Symbol",
               "c": [
                {
-                "x": 467.8330078125,
+                "x": 467.83306884765625,
                 "y": 357,
                 "w": 9,
                 "h": 22,
@@ -14390,7 +14390,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "s": "In View=false, Today=false, Selected=false, ⬑ Range Start=false, ⬑ In Range=false, ⬑ Range End=false, Hovered=false, Disabled=false"
              },
              {
-              "x": 497,
+              "x": 496.999755859375,
               "y": 356,
               "w": 24,
               "h": 24,
@@ -14399,7 +14399,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "tp": "Symbol",
               "c": [
                {
-                "x": 504.5,
+                "x": 504.499755859375,
                 "y": 357,
                 "w": 9,
                 "h": 22,
@@ -14413,7 +14413,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "s": "In View=false, Today=false, Selected=false, ⬑ Range Start=false, ⬑ In Range=false, ⬑ Range End=false, Hovered=false, Disabled=false"
              },
              {
-              "x": 533.6669921875,
+              "x": 533.6664428710938,
               "y": 356,
               "w": 24,
               "h": 24,
@@ -14422,7 +14422,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "tp": "Symbol",
               "c": [
                {
-                "x": 541.1669921875,
+                "x": 541.1664428710938,
                 "y": 357,
                 "w": 9,
                 "h": 22,
@@ -14436,7 +14436,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "s": "In View=false, Today=false, Selected=false, ⬑ Range Start=false, ⬑ In Range=false, ⬑ Range End=false, Hovered=false, Disabled=false"
              },
              {
-              "x": 570.3330078125,
+              "x": 570.3331298828125,
               "y": 356,
               "w": 24,
               "h": 24,
@@ -14445,7 +14445,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "tp": "Symbol",
               "c": [
                {
-                "x": 577.8330078125,
+                "x": 577.8331298828125,
                 "y": 357,
                 "w": 9,
                 "h": 22,
@@ -14459,7 +14459,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "s": "In View=false, Today=false, Selected=false, ⬑ Range Start=false, ⬑ In Range=false, ⬑ Range End=false, Hovered=false, Disabled=false"
              },
              {
-              "x": 607,
+              "x": 606.999755859375,
               "y": 356,
               "w": 24,
               "h": 24,
@@ -14468,7 +14468,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "tp": "Symbol",
               "c": [
                {
-                "x": 615,
+                "x": 614.999755859375,
                 "y": 357,
                 "w": 8,
                 "h": 22,
@@ -14491,7 +14491,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
         "pr": "background-color: #ffffff;\n"
        },
        {
-        "x": 369,
+        "x": 368.999755859375,
         "y": 391,
         "w": 280,
         "h": 42,
@@ -14500,7 +14500,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
         "tp": "Symbol",
         "c": [
          {
-          "x": 369,
+          "x": 368.999755859375,
           "y": 391,
           "w": 280,
           "h": 42,
@@ -14517,7 +14517,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
       "s": "Type=date"
      },
      {
-      "x": 648.9990234375,
+      "x": 648.999267578125,
       "y": 125,
       "w": 280,
       "h": 308,
@@ -14526,7 +14526,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
       "tp": "Symbol",
       "c": [
        {
-        "x": 648.9990234375,
+        "x": 648.999267578125,
         "y": 125,
         "w": 280,
         "h": 40,
@@ -14535,7 +14535,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
         "tp": "ShapePath",
         "c": [
          {
-          "x": 656.9990234375,
+          "x": 656.999267578125,
           "y": 125,
           "w": 22,
           "h": 40,
@@ -14544,7 +14544,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
           "tp": "ShapePath",
           "c": [
            {
-            "x": 662.9990234375,
+            "x": 662.999267578125,
             "y": 140,
             "w": 6.060660362243652,
             "h": 10,
@@ -14554,7 +14554,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
             "pr": "background-color: #00000040;\n"
            },
            {
-            "x": 668.9990234375,
+            "x": 668.999267578125,
             "y": 140,
             "w": 6.060660362243652,
             "h": 10,
@@ -14567,7 +14567,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
           "pr": ""
          },
          {
-          "x": 678.9990234375,
+          "x": 678.999267578125,
           "y": 125,
           "w": 22,
           "h": 40,
@@ -14576,7 +14576,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
           "tp": "ShapePath",
           "c": [
            {
-            "x": 684.9990234375,
+            "x": 684.999267578125,
             "y": 140,
             "w": 6.060660362243652,
             "h": 10,
@@ -14589,7 +14589,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
           "pr": ""
          },
          {
-          "x": 898.9990234375,
+          "x": 898.999267578125,
           "y": 125,
           "w": 22,
           "h": 40,
@@ -14598,7 +14598,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
           "tp": "ShapePath",
           "c": [
            {
-            "x": 908.9384765625,
+            "x": 908.9385986328125,
             "y": 140,
             "w": 6.060660362243652,
             "h": 10,
@@ -14608,7 +14608,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
             "pr": "border-color: #00000040;\nborder-width : 1.5px;\nbackground-color: #ffffff;\n"
            },
            {
-            "x": 902.8779296875,
+            "x": 902.8778686523438,
             "y": 140,
             "w": 6.060660362243652,
             "h": 10,
@@ -14621,7 +14621,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
           "pr": ""
          },
          {
-          "x": 876.9990234375,
+          "x": 876.999267578125,
           "y": 125,
           "w": 22,
           "h": 40,
@@ -14630,7 +14630,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
           "tp": "ShapePath",
           "c": [
            {
-            "x": 886.9384765625,
+            "x": 886.9385986328125,
             "y": 140,
             "w": 6.060660362243652,
             "h": 10,
@@ -14646,7 +14646,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
         "pr": "background-color: #ffffff;\n"
        },
        {
-        "x": 648.9990234375,
+        "x": 648.999267578125,
         "y": 165,
         "w": 280,
         "h": 226,
@@ -14655,7 +14655,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
         "tp": "ShapePath",
         "c": [
          {
-          "x": 660.9990234375,
+          "x": 660.999267578125,
           "y": 173,
           "w": 256,
           "h": 210,
@@ -14664,7 +14664,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
           "tp": "ShapePath",
           "c": [
            {
-            "x": 660.9990234375,
+            "x": 660.999267578125,
             "y": 173,
             "w": 256,
             "h": 30,
@@ -14673,7 +14673,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
             "tp": "ShapePath",
             "c": [
              {
-              "x": 660.9990234375,
+              "x": 660.999267578125,
               "y": 173,
               "w": 36,
               "h": 30,
@@ -14684,7 +14684,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "pr": "font-family: SF Pro Display;\nfont-size: 14px;\nfont-weight: 400;\nline-height: 28px;\ntext-transform: none;\nletter-spacing: 0%;\n-pt-paragraph-spacing: 0;\nbackground-color: #000000d9;\n"
              },
              {
-              "x": 697.666015625,
+              "x": 697.6659545898438,
               "y": 173,
               "w": 36,
               "h": 30,
@@ -14695,7 +14695,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "pr": "font-family: SF Pro Display;\nfont-size: 14px;\nfont-weight: 400;\nline-height: 28px;\ntext-transform: none;\nletter-spacing: 0%;\n-pt-paragraph-spacing: 0;\nbackground-color: #000000d9;\n"
              },
              {
-              "x": 734.33203125,
+              "x": 734.3325805664062,
               "y": 173,
               "w": 36,
               "h": 30,
@@ -14706,7 +14706,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "pr": "font-family: SF Pro Display;\nfont-size: 14px;\nfont-weight: 400;\nline-height: 28px;\ntext-transform: none;\nletter-spacing: 0%;\n-pt-paragraph-spacing: 0;\nbackground-color: #000000d9;\n"
              },
              {
-              "x": 770.9990234375,
+              "x": 770.999267578125,
               "y": 173,
               "w": 36,
               "h": 30,
@@ -14717,7 +14717,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "pr": "font-family: SF Pro Display;\nfont-size: 14px;\nfont-weight: 400;\nline-height: 28px;\ntext-transform: none;\nletter-spacing: 0%;\n-pt-paragraph-spacing: 0;\nbackground-color: #000000d9;\n"
              },
              {
-              "x": 807.666015625,
+              "x": 807.6659545898438,
               "y": 173,
               "w": 36,
               "h": 30,
@@ -14728,7 +14728,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "pr": "font-family: SF Pro Display;\nfont-size: 14px;\nfont-weight: 400;\nline-height: 28px;\ntext-transform: none;\nletter-spacing: 0%;\n-pt-paragraph-spacing: 0;\nbackground-color: #000000d9;\n"
              },
              {
-              "x": 844.33203125,
+              "x": 844.3326110839844,
               "y": 173,
               "w": 36,
               "h": 30,
@@ -14739,7 +14739,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "pr": "font-family: SF Pro Display;\nfont-size: 14px;\nfont-weight: 400;\nline-height: 28px;\ntext-transform: none;\nletter-spacing: 0%;\n-pt-paragraph-spacing: 0;\nbackground-color: #000000d9;\n"
              },
              {
-              "x": 880.9990234375,
+              "x": 880.999267578125,
               "y": 173,
               "w": 36,
               "h": 30,
@@ -14753,7 +14753,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
             "pr": ""
            },
            {
-            "x": 660.9990234375,
+            "x": 660.999267578125,
             "y": 203,
             "w": 256,
             "h": 30,
@@ -14762,7 +14762,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
             "tp": "ShapePath",
             "c": [
              {
-              "x": 666.9990234375,
+              "x": 666.999267578125,
               "y": 206,
               "w": 24,
               "h": 24,
@@ -14771,7 +14771,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "tp": "Symbol",
               "c": [
                {
-                "x": 670.4990234375,
+                "x": 670.499267578125,
                 "y": 207,
                 "w": 17,
                 "h": 22,
@@ -14785,7 +14785,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "s": "In View=false, Today=false, Selected=false, ⬑ Range Start=false, ⬑ In Range=false, ⬑ Range End=false, Hovered=false, Disabled=false"
              },
              {
-              "x": 703.666015625,
+              "x": 703.6659545898438,
               "y": 206,
               "w": 24,
               "h": 24,
@@ -14794,7 +14794,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "tp": "Symbol",
               "c": [
                {
-                "x": 706.666015625,
+                "x": 706.6659545898438,
                 "y": 207,
                 "w": 18,
                 "h": 22,
@@ -14808,7 +14808,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "s": "In View=false, Today=false, Selected=false, ⬑ Range Start=false, ⬑ In Range=false, ⬑ Range End=false, Hovered=false, Disabled=false"
              },
              {
-              "x": 740.33203125,
+              "x": 740.3325805664062,
               "y": 206,
               "w": 24,
               "h": 24,
@@ -14817,7 +14817,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "tp": "Symbol",
               "c": [
                {
-                "x": 743.33203125,
+                "x": 743.3325805664062,
                 "y": 207,
                 "w": 18,
                 "h": 22,
@@ -14831,7 +14831,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "s": "In View=false, Today=false, Selected=false, ⬑ Range Start=false, ⬑ In Range=false, ⬑ Range End=false, Hovered=false, Disabled=false"
              },
              {
-              "x": 776.9990234375,
+              "x": 776.999267578125,
               "y": 206,
               "w": 24,
               "h": 24,
@@ -14840,7 +14840,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "tp": "Symbol",
               "c": [
                {
-                "x": 779.9990234375,
+                "x": 779.999267578125,
                 "y": 207,
                 "w": 18,
                 "h": 22,
@@ -14854,7 +14854,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "s": "In View=false, Today=false, Selected=false, ⬑ Range Start=false, ⬑ In Range=false, ⬑ Range End=false, Hovered=false, Disabled=false"
              },
              {
-              "x": 813.666015625,
+              "x": 813.6659545898438,
               "y": 206,
               "w": 24,
               "h": 24,
@@ -14863,7 +14863,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "tp": "Symbol",
               "c": [
                {
-                "x": 822.166015625,
+                "x": 822.1659545898438,
                 "y": 207,
                 "w": 7,
                 "h": 22,
@@ -14877,7 +14877,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "s": "In View=true, Today=false, Selected=false, ⬑ Range Start=false, ⬑ In Range=false, ⬑ Range End=false, Hovered=false, Disabled=false"
              },
              {
-              "x": 850.33203125,
+              "x": 850.3326110839844,
               "y": 206,
               "w": 24,
               "h": 24,
@@ -14886,7 +14886,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "tp": "Symbol",
               "c": [
                {
-                "x": 857.83203125,
+                "x": 857.8326110839844,
                 "y": 207,
                 "w": 9,
                 "h": 22,
@@ -14900,7 +14900,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "s": "In View=true, Today=false, Selected=false, ⬑ Range Start=false, ⬑ In Range=false, ⬑ Range End=false, Hovered=false, Disabled=false"
              },
              {
-              "x": 886.9990234375,
+              "x": 886.999267578125,
               "y": 206,
               "w": 24,
               "h": 24,
@@ -14909,7 +14909,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "tp": "Symbol",
               "c": [
                {
-                "x": 894.4990234375,
+                "x": 894.499267578125,
                 "y": 207,
                 "w": 9,
                 "h": 22,
@@ -14926,7 +14926,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
             "pr": ""
            },
            {
-            "x": 660.9990234375,
+            "x": 660.999267578125,
             "y": 233,
             "w": 256,
             "h": 30,
@@ -14935,7 +14935,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
             "tp": "ShapePath",
             "c": [
              {
-              "x": 666.9990234375,
+              "x": 666.999267578125,
               "y": 236,
               "w": 24,
               "h": 24,
@@ -14944,7 +14944,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "tp": "Symbol",
               "c": [
                {
-                "x": 674.4990234375,
+                "x": 674.499267578125,
                 "y": 237,
                 "w": 9,
                 "h": 22,
@@ -14958,7 +14958,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "s": "In View=true, Today=false, Selected=false, ⬑ Range Start=false, ⬑ In Range=false, ⬑ Range End=false, Hovered=false, Disabled=false"
              },
              {
-              "x": 703.666015625,
+              "x": 703.6659545898438,
               "y": 236,
               "w": 24,
               "h": 24,
@@ -14967,7 +14967,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "tp": "Symbol",
               "c": [
                {
-                "x": 711.166015625,
+                "x": 711.1659545898438,
                 "y": 237,
                 "w": 9,
                 "h": 22,
@@ -14981,7 +14981,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "s": "In View=true, Today=false, Selected=false, ⬑ Range Start=false, ⬑ In Range=false, ⬑ Range End=false, Hovered=false, Disabled=false"
              },
              {
-              "x": 740.33203125,
+              "x": 740.3325805664062,
               "y": 236,
               "w": 24,
               "h": 24,
@@ -14990,7 +14990,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "tp": "Symbol",
               "c": [
                {
-                "x": 747.83203125,
+                "x": 747.8325805664062,
                 "y": 237,
                 "w": 9,
                 "h": 22,
@@ -15004,7 +15004,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "s": "In View=true, Today=false, Selected=false, ⬑ Range Start=false, ⬑ In Range=false, ⬑ Range End=false, Hovered=false, Disabled=false"
              },
              {
-              "x": 776.9990234375,
+              "x": 776.999267578125,
               "y": 236,
               "w": 24,
               "h": 24,
@@ -15013,7 +15013,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "tp": "Symbol",
               "c": [
                {
-                "x": 784.9990234375,
+                "x": 784.999267578125,
                 "y": 237,
                 "w": 8,
                 "h": 22,
@@ -15027,7 +15027,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "s": "In View=true, Today=false, Selected=false, ⬑ Range Start=false, ⬑ In Range=false, ⬑ Range End=false, Hovered=false, Disabled=false"
              },
              {
-              "x": 813.666015625,
+              "x": 813.6659545898438,
               "y": 236,
               "w": 24,
               "h": 24,
@@ -15036,7 +15036,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "tp": "Symbol",
               "c": [
                {
-                "x": 821.166015625,
+                "x": 821.1659545898438,
                 "y": 237,
                 "w": 9,
                 "h": 22,
@@ -15050,7 +15050,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "s": "In View=true, Today=false, Selected=false, ⬑ Range Start=false, ⬑ In Range=false, ⬑ Range End=false, Hovered=false, Disabled=false"
              },
              {
-              "x": 850.33203125,
+              "x": 850.3326110839844,
               "y": 236,
               "w": 24,
               "h": 24,
@@ -15059,7 +15059,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "tp": "Symbol",
               "c": [
                {
-                "x": 857.83203125,
+                "x": 857.8326110839844,
                 "y": 237,
                 "w": 9,
                 "h": 22,
@@ -15073,7 +15073,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "s": "In View=true, Today=false, Selected=false, ⬑ Range Start=false, ⬑ In Range=false, ⬑ Range End=false, Hovered=false, Disabled=false"
              },
              {
-              "x": 886.9990234375,
+              "x": 886.999267578125,
               "y": 236,
               "w": 24,
               "h": 24,
@@ -15082,7 +15082,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "tp": "Symbol",
               "c": [
                {
-                "x": 890.9990234375,
+                "x": 890.999267578125,
                 "y": 237,
                 "w": 16,
                 "h": 22,
@@ -15099,7 +15099,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
             "pr": ""
            },
            {
-            "x": 660.9990234375,
+            "x": 660.999267578125,
             "y": 263,
             "w": 256,
             "h": 30,
@@ -15108,7 +15108,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
             "tp": "ShapePath",
             "c": [
              {
-              "x": 666.9990234375,
+              "x": 666.999267578125,
               "y": 266,
               "w": 24,
               "h": 24,
@@ -15117,7 +15117,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "tp": "Symbol",
               "c": [
                {
-                "x": 671.9990234375,
+                "x": 671.999267578125,
                 "y": 267,
                 "w": 14,
                 "h": 22,
@@ -15131,7 +15131,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "s": "In View=true, Today=false, Selected=false, ⬑ Range Start=false, ⬑ In Range=false, ⬑ Range End=false, Hovered=false, Disabled=false"
              },
              {
-              "x": 703.666015625,
+              "x": 703.6659545898438,
               "y": 266,
               "w": 24,
               "h": 24,
@@ -15140,7 +15140,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "tp": "Symbol",
               "c": [
                {
-                "x": 708.166015625,
+                "x": 708.1659545898438,
                 "y": 267,
                 "w": 15,
                 "h": 22,
@@ -15154,7 +15154,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "s": "In View=true, Today=false, Selected=false, ⬑ Range Start=false, ⬑ In Range=false, ⬑ Range End=false, Hovered=false, Disabled=false"
              },
              {
-              "x": 740.33203125,
+              "x": 740.3325805664062,
               "y": 266,
               "w": 24,
               "h": 24,
@@ -15163,7 +15163,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "tp": "Symbol",
               "c": [
                {
-                "x": 744.33203125,
+                "x": 744.3325805664062,
                 "y": 267,
                 "w": 16,
                 "h": 22,
@@ -15177,7 +15177,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "s": "In View=true, Today=false, Selected=false, ⬑ Range Start=false, ⬑ In Range=false, ⬑ Range End=false, Hovered=false, Disabled=false"
              },
              {
-              "x": 776.9990234375,
+              "x": 776.999267578125,
               "y": 266,
               "w": 24,
               "h": 24,
@@ -15186,7 +15186,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "tp": "Symbol",
               "c": [
                {
-                "x": 780.9990234375,
+                "x": 780.999267578125,
                 "y": 267,
                 "w": 16,
                 "h": 22,
@@ -15200,7 +15200,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "s": "In View=true, Today=false, Selected=false, ⬑ Range Start=false, ⬑ In Range=false, ⬑ Range End=false, Hovered=false, Disabled=false"
              },
              {
-              "x": 813.666015625,
+              "x": 813.6659545898438,
               "y": 266,
               "w": 24,
               "h": 24,
@@ -15209,7 +15209,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "tp": "Symbol",
               "c": [
                {
-                "x": 817.666015625,
+                "x": 817.6659545898438,
                 "y": 267,
                 "w": 16,
                 "h": 22,
@@ -15223,7 +15223,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "s": "In View=true, Today=false, Selected=false, ⬑ Range Start=false, ⬑ In Range=false, ⬑ Range End=false, Hovered=false, Disabled=false"
              },
              {
-              "x": 850.33203125,
+              "x": 850.3326110839844,
               "y": 266,
               "w": 24,
               "h": 24,
@@ -15232,7 +15232,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "tp": "Symbol",
               "c": [
                {
-                "x": 854.33203125,
+                "x": 854.3326110839844,
                 "y": 267,
                 "w": 16,
                 "h": 22,
@@ -15246,7 +15246,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "s": "In View=true, Today=false, Selected=false, ⬑ Range Start=false, ⬑ In Range=false, ⬑ Range End=false, Hovered=false, Disabled=false"
              },
              {
-              "x": 886.9990234375,
+              "x": 886.999267578125,
               "y": 266,
               "w": 24,
               "h": 24,
@@ -15255,7 +15255,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "tp": "Symbol",
               "c": [
                {
-                "x": 891.4990234375,
+                "x": 891.499267578125,
                 "y": 267,
                 "w": 15,
                 "h": 22,
@@ -15272,7 +15272,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
             "pr": ""
            },
            {
-            "x": 660.9990234375,
+            "x": 660.999267578125,
             "y": 293,
             "w": 256,
             "h": 30,
@@ -15281,7 +15281,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
             "tp": "ShapePath",
             "c": [
              {
-              "x": 666.9990234375,
+              "x": 666.999267578125,
               "y": 296,
               "w": 24,
               "h": 24,
@@ -15290,7 +15290,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "tp": "Symbol",
               "c": [
                {
-                "x": 670.9990234375,
+                "x": 670.999267578125,
                 "y": 297,
                 "w": 16,
                 "h": 22,
@@ -15304,7 +15304,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "s": "In View=true, Today=false, Selected=false, ⬑ Range Start=false, ⬑ In Range=false, ⬑ Range End=false, Hovered=false, Disabled=false"
              },
              {
-              "x": 703.666015625,
+              "x": 703.6659545898438,
               "y": 296,
               "w": 24,
               "h": 24,
@@ -15313,7 +15313,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "tp": "Symbol",
               "c": [
                {
-                "x": 707.666015625,
+                "x": 707.6659545898438,
                 "y": 297,
                 "w": 16,
                 "h": 22,
@@ -15327,7 +15327,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "s": "In View=true, Today=false, Selected=false, ⬑ Range Start=false, ⬑ In Range=false, ⬑ Range End=false, Hovered=false, Disabled=false"
              },
              {
-              "x": 740.33203125,
+              "x": 740.3325805664062,
               "y": 296,
               "w": 24,
               "h": 24,
@@ -15336,7 +15336,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "tp": "Symbol",
               "c": [
                {
-                "x": 743.33203125,
+                "x": 743.3325805664062,
                 "y": 297,
                 "w": 18,
                 "h": 22,
@@ -15350,7 +15350,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "s": "In View=true, Today=false, Selected=false, ⬑ Range Start=false, ⬑ In Range=false, ⬑ Range End=false, Hovered=false, Disabled=false"
              },
              {
-              "x": 776.9990234375,
+              "x": 776.999267578125,
               "y": 296,
               "w": 24,
               "h": 24,
@@ -15359,7 +15359,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "tp": "Symbol",
               "c": [
                {
-                "x": 781.4990234375,
+                "x": 781.499267578125,
                 "y": 297,
                 "w": 15,
                 "h": 22,
@@ -15373,7 +15373,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "s": "In View=true, Today=false, Selected=false, ⬑ Range Start=false, ⬑ In Range=false, ⬑ Range End=false, Hovered=false, Disabled=false"
              },
              {
-              "x": 813.666015625,
+              "x": 813.6659545898438,
               "y": 296,
               "w": 24,
               "h": 24,
@@ -15382,7 +15382,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "tp": "Symbol",
               "c": [
                {
-                "x": 817.166015625,
+                "x": 817.1659545898438,
                 "y": 297,
                 "w": 17,
                 "h": 22,
@@ -15396,7 +15396,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "s": "In View=true, Today=true, Selected=false, ⬑ Range Start=false, ⬑ In Range=false, ⬑ Range End=false, Hovered=false, Disabled=false"
              },
              {
-              "x": 850.33203125,
+              "x": 850.3326110839844,
               "y": 296,
               "w": 24,
               "h": 24,
@@ -15405,7 +15405,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "tp": "Symbol",
               "c": [
                {
-                "x": 853.33203125,
+                "x": 853.3326110839844,
                 "y": 297,
                 "w": 18,
                 "h": 22,
@@ -15419,7 +15419,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "s": "In View=true, Today=false, Selected=true, ⬑ Range Start=false, ⬑ In Range=false, ⬑ Range End=false, Hovered=false, Disabled=false"
              },
              {
-              "x": 886.9990234375,
+              "x": 886.999267578125,
               "y": 296,
               "w": 24,
               "h": 24,
@@ -15428,7 +15428,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "tp": "Symbol",
               "c": [
                {
-                "x": 889.9990234375,
+                "x": 889.999267578125,
                 "y": 297,
                 "w": 18,
                 "h": 22,
@@ -15445,7 +15445,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
             "pr": ""
            },
            {
-            "x": 660.9990234375,
+            "x": 660.999267578125,
             "y": 323,
             "w": 256,
             "h": 30,
@@ -15454,7 +15454,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
             "tp": "ShapePath",
             "c": [
              {
-              "x": 666.9990234375,
+              "x": 666.999267578125,
               "y": 326,
               "w": 24,
               "h": 24,
@@ -15463,7 +15463,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "tp": "Symbol",
               "c": [
                {
-                "x": 670.4990234375,
+                "x": 670.499267578125,
                 "y": 327,
                 "w": 17,
                 "h": 22,
@@ -15477,7 +15477,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "s": "In View=true, Today=false, Selected=false, ⬑ Range Start=false, ⬑ In Range=false, ⬑ Range End=false, Hovered=false, Disabled=false"
              },
              {
-              "x": 703.666015625,
+              "x": 703.6659545898438,
               "y": 326,
               "w": 24,
               "h": 24,
@@ -15486,7 +15486,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "tp": "Symbol",
               "c": [
                {
-                "x": 706.666015625,
+                "x": 706.6659545898438,
                 "y": 327,
                 "w": 18,
                 "h": 22,
@@ -15500,7 +15500,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "s": "In View=true, Today=false, Selected=false, ⬑ Range Start=false, ⬑ In Range=false, ⬑ Range End=false, Hovered=false, Disabled=false"
              },
              {
-              "x": 740.33203125,
+              "x": 740.3325805664062,
               "y": 326,
               "w": 24,
               "h": 24,
@@ -15509,7 +15509,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "tp": "Symbol",
               "c": [
                {
-                "x": 743.83203125,
+                "x": 743.8325805664062,
                 "y": 327,
                 "w": 17,
                 "h": 22,
@@ -15523,7 +15523,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "s": "In View=true, Today=false, Selected=false, ⬑ Range Start=false, ⬑ In Range=false, ⬑ Range End=false, Hovered=false, Disabled=false"
              },
              {
-              "x": 776.9990234375,
+              "x": 776.999267578125,
               "y": 326,
               "w": 24,
               "h": 24,
@@ -15532,7 +15532,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "tp": "Symbol",
               "c": [
                {
-                "x": 779.9990234375,
+                "x": 779.999267578125,
                 "y": 327,
                 "w": 18,
                 "h": 22,
@@ -15546,7 +15546,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "s": "In View=true, Today=false, Selected=false, ⬑ Range Start=false, ⬑ In Range=false, ⬑ Range End=false, Hovered=false, Disabled=false"
              },
              {
-              "x": 813.666015625,
+              "x": 813.6659545898438,
               "y": 326,
               "w": 24,
               "h": 24,
@@ -15555,7 +15555,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "tp": "Symbol",
               "c": [
                {
-                "x": 816.666015625,
+                "x": 816.6659545898438,
                 "y": 327,
                 "w": 18,
                 "h": 22,
@@ -15569,7 +15569,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "s": "In View=true, Today=false, Selected=false, ⬑ Range Start=false, ⬑ In Range=false, ⬑ Range End=false, Hovered=false, Disabled=false"
              },
              {
-              "x": 850.33203125,
+              "x": 850.3326110839844,
               "y": 326,
               "w": 24,
               "h": 24,
@@ -15578,7 +15578,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "tp": "Symbol",
               "c": [
                {
-                "x": 853.33203125,
+                "x": 853.3326110839844,
                 "y": 327,
                 "w": 18,
                 "h": 22,
@@ -15592,7 +15592,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "s": "In View=true, Today=false, Selected=false, ⬑ Range Start=false, ⬑ In Range=false, ⬑ Range End=false, Hovered=false, Disabled=false"
              },
              {
-              "x": 886.9990234375,
+              "x": 886.999267578125,
               "y": 326,
               "w": 24,
               "h": 24,
@@ -15601,7 +15601,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "tp": "Symbol",
               "c": [
                {
-                "x": 890.9990234375,
+                "x": 890.999267578125,
                 "y": 327,
                 "w": 16,
                 "h": 22,
@@ -15618,7 +15618,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
             "pr": ""
            },
            {
-            "x": 660.9990234375,
+            "x": 660.999267578125,
             "y": 353,
             "w": 256,
             "h": 30,
@@ -15627,7 +15627,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
             "tp": "ShapePath",
             "c": [
              {
-              "x": 666.9990234375,
+              "x": 666.999267578125,
               "y": 356,
               "w": 24,
               "h": 24,
@@ -15636,7 +15636,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "tp": "Symbol",
               "c": [
                {
-                "x": 675.4990234375,
+                "x": 675.499267578125,
                 "y": 357,
                 "w": 7,
                 "h": 22,
@@ -15650,7 +15650,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "s": "In View=false, Today=false, Selected=false, ⬑ Range Start=false, ⬑ In Range=false, ⬑ Range End=false, Hovered=false, Disabled=false"
              },
              {
-              "x": 703.666015625,
+              "x": 703.6659545898438,
               "y": 356,
               "w": 24,
               "h": 24,
@@ -15659,7 +15659,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "tp": "Symbol",
               "c": [
                {
-                "x": 711.166015625,
+                "x": 711.1659545898438,
                 "y": 357,
                 "w": 9,
                 "h": 22,
@@ -15673,7 +15673,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "s": "In View=false, Today=false, Selected=false, ⬑ Range Start=false, ⬑ In Range=false, ⬑ Range End=false, Hovered=false, Disabled=false"
              },
              {
-              "x": 740.33203125,
+              "x": 740.3325805664062,
               "y": 356,
               "w": 24,
               "h": 24,
@@ -15682,7 +15682,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "tp": "Symbol",
               "c": [
                {
-                "x": 747.83203125,
+                "x": 747.8325805664062,
                 "y": 357,
                 "w": 9,
                 "h": 22,
@@ -15696,7 +15696,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "s": "In View=false, Today=false, Selected=false, ⬑ Range Start=false, ⬑ In Range=false, ⬑ Range End=false, Hovered=false, Disabled=false"
              },
              {
-              "x": 776.9990234375,
+              "x": 776.999267578125,
               "y": 356,
               "w": 24,
               "h": 24,
@@ -15705,7 +15705,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "tp": "Symbol",
               "c": [
                {
-                "x": 784.4990234375,
+                "x": 784.499267578125,
                 "y": 357,
                 "w": 9,
                 "h": 22,
@@ -15719,7 +15719,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "s": "In View=false, Today=false, Selected=false, ⬑ Range Start=false, ⬑ In Range=false, ⬑ Range End=false, Hovered=false, Disabled=false"
              },
              {
-              "x": 813.666015625,
+              "x": 813.6659545898438,
               "y": 356,
               "w": 24,
               "h": 24,
@@ -15728,7 +15728,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "tp": "Symbol",
               "c": [
                {
-                "x": 821.166015625,
+                "x": 821.1659545898438,
                 "y": 357,
                 "w": 9,
                 "h": 22,
@@ -15742,7 +15742,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "s": "In View=false, Today=false, Selected=false, ⬑ Range Start=false, ⬑ In Range=false, ⬑ Range End=false, Hovered=false, Disabled=false"
              },
              {
-              "x": 850.33203125,
+              "x": 850.3326110839844,
               "y": 356,
               "w": 24,
               "h": 24,
@@ -15751,7 +15751,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "tp": "Symbol",
               "c": [
                {
-                "x": 857.83203125,
+                "x": 857.8326110839844,
                 "y": 357,
                 "w": 9,
                 "h": 22,
@@ -15765,7 +15765,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "s": "In View=false, Today=false, Selected=false, ⬑ Range Start=false, ⬑ In Range=false, ⬑ Range End=false, Hovered=false, Disabled=false"
              },
              {
-              "x": 886.9990234375,
+              "x": 886.999267578125,
               "y": 356,
               "w": 24,
               "h": 24,
@@ -15774,7 +15774,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
               "tp": "Symbol",
               "c": [
                {
-                "x": 894.9990234375,
+                "x": 894.999267578125,
                 "y": 357,
                 "w": 8,
                 "h": 22,
@@ -15797,7 +15797,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
         "pr": "background-color: #ffffff;\n"
        },
        {
-        "x": 648.9990234375,
+        "x": 648.999267578125,
         "y": 391,
         "w": 280,
         "h": 42,
@@ -15806,7 +15806,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
         "tp": "Symbol",
         "c": [
          {
-          "x": 648.9990234375,
+          "x": 648.999267578125,
           "y": 391,
           "w": 280,
           "h": 42,
@@ -15815,7 +15815,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
           "tp": "ShapePath",
           "c": [
            {
-            "x": 881.9990234375,
+            "x": 881.999267578125,
             "y": 400,
             "w": 35,
             "h": 24,
@@ -15824,7 +15824,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
             "tp": "Symbol",
             "c": [
              {
-              "x": 889.9990234375,
+              "x": 889.999267578125,
               "y": 401,
               "w": 19,
               "h": 22,
@@ -15856,7 +15856,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
       "tp": "ShapePath",
       "c": [
        {
-        "x": 467,
+        "x": 466.999755859375,
         "y": 124,
         "w": 370,
         "h": 42,
@@ -15865,7 +15865,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
         "tp": "ShapePath",
         "c": [
          {
-          "x": 472,
+          "x": 471.999755859375,
           "y": 129,
           "w": 77,
           "h": 32,
@@ -15874,7 +15874,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
           "tp": "ShapePath",
           "c": [
            {
-            "x": 477,
+            "x": 476.999755859375,
             "y": 134,
             "w": 24,
             "h": 22,
@@ -15885,7 +15885,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
             "pr": "font-family: Inter;\nfont-size: 14px;\nfont-weight: 400;\nline-height: 22px;\ntext-transform: none;\nletter-spacing: 0%;\n-pt-paragraph-spacing: 0;\nbackground-color: #000000d9;\n"
            },
            {
-            "x": 509,
+            "x": 508.999755859375,
             "y": 134,
             "w": 35,
             "h": 22,
@@ -15899,7 +15899,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
           "pr": ""
          },
          {
-          "x": 755,
+          "x": 754.999755859375,
           "y": 129,
           "w": 77,
           "h": 32,
@@ -15908,7 +15908,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
           "tp": "ShapePath",
           "c": [
            {
-            "x": 760,
+            "x": 759.999755859375,
             "y": 134,
             "w": 24,
             "h": 22,
@@ -15919,7 +15919,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
             "pr": "font-family: Inter;\nfont-size: 14px;\nfont-weight: 400;\nline-height: 22px;\ntext-transform: none;\nletter-spacing: 0%;\n-pt-paragraph-spacing: 0;\nbackground-color: #000000d9;\n"
            },
            {
-            "x": 792,
+            "x": 791.999755859375,
             "y": 134,
             "w": 35,
             "h": 22,
@@ -16054,7 +16054,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
                   "pr": "background-color: #d9d9d9;\n"
                  },
                  {
-                  "x": 952.271484375,
+                  "x": 952.27099609375,
                   "y": 30.5,
                   "w": 13.437000274658203,
                   "h": 15,
@@ -16341,7 +16341,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
                   "tp": "Symbol",
                   "c": [
                    {
-                    "x": 445.2060546875,
+                    "x": 445.206298828125,
                     "y": 167.177734375,
                     "w": 9.588347434997559,
                     "h": 9.643210411071777,
@@ -16658,7 +16658,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
                     "pr": " border-radius : 2px;\nborder-color: #2f54eb;\nborder-width : 1px;\n"
                    },
                    {
-                    "x": 1142.6875,
+                    "x": 1142.6878967285156,
                     "y": 223,
                     "w": 10.62421703338623,
                     "h": 7.621751308441162,
@@ -16750,7 +16750,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
                   "pr": " border-radius : 2px;\nborder-color: #2f54eb;\nborder-width : 1px;\n"
                  },
                  {
-                  "x": 358.6875,
+                  "x": 358.6878662109375,
                   "y": 283,
                   "w": 10.62421703338623,
                   "h": 7.621751308441162,
@@ -16904,7 +16904,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
                     "pr": " border-radius : 2px;\nborder-color: #2f54eb;\nborder-width : 1px;\n"
                    },
                    {
-                    "x": 1142.6875,
+                    "x": 1142.6878967285156,
                     "y": 283,
                     "w": 10.62421703338623,
                     "h": 7.621751308441162,
@@ -17130,7 +17130,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
                     "pr": " border-radius : 2px;\nborder-color: #2f54eb;\nborder-width : 1px;\n"
                    },
                    {
-                    "x": 1142.6875,
+                    "x": 1142.6878967285156,
                     "y": 343,
                     "w": 10.62421703338623,
                     "h": 7.621751308441162,
@@ -17220,7 +17220,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
             "tp": "Symbol",
             "c": [
              {
-              "x": 25.8447265625,
+              "x": 25.844970703125,
               "y": 24.215087890625,
               "w": 34.13249588012695,
               "h": 26.5987491607666,
@@ -17436,7 +17436,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
                     "pr": "background-color: #d9d9d9;\n"
                    },
                    {
-                    "x": 25.6826171875,
+                    "x": 25.68212890625,
                     "y": 143.6669921875,
                     "w": 16.61542510986328,
                     "h": 16.666000366210938,
@@ -17912,7 +17912,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
                 "pr": "background-color: #d9d9d9;\n"
                },
                {
-                "x": 25.6669921875,
+                "x": 25.667007446289062,
                 "y": 103.6669921875,
                 "w": 16.666000366210938,
                 "h": 16.666000366210938,
@@ -18021,7 +18021,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
                   "pr": "background-color: #d9d9d9;\n"
                  },
                  {
-                  "x": 25.6826171875,
+                  "x": 25.682159423828125,
                   "y": 151.6669921875,
                   "w": 16.61542510986328,
                   "h": 16.666000366210938,
@@ -18502,7 +18502,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
                   "pr": "background-color: #d9d9d9;\n"
                  },
                  {
-                  "x": 952.271484375,
+                  "x": 952.27099609375,
                   "y": 30.5,
                   "w": 13.437000274658203,
                   "h": 15,
@@ -18686,7 +18686,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
                 "tp": "Symbol",
                 "c": [
                  {
-                  "x": 467.2060546875,
+                  "x": 467.206298828125,
                   "y": 114.177734375,
                   "w": 9.588347434997559,
                   "h": 9.643210411071777,
@@ -19003,7 +19003,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
                   "pr": " border-radius : 2px;\nborder-color: #2f54eb;\nborder-width : 1px;\n"
                  },
                  {
-                  "x": 1133.6875,
+                  "x": 1133.6878662109375,
                   "y": 170,
                   "w": 10.62421703338623,
                   "h": 7.621751308441162,
@@ -19095,7 +19095,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
                 "pr": " border-radius : 2px;\nborder-color: #2f54eb;\nborder-width : 1px;\n"
                },
                {
-                "x": 380.6875,
+                "x": 380.6878967285156,
                 "y": 230,
                 "w": 10.62421703338623,
                 "h": 7.621751308441162,
@@ -19249,7 +19249,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
                   "pr": " border-radius : 2px;\nborder-color: #2f54eb;\nborder-width : 1px;\n"
                  },
                  {
-                  "x": 1133.6875,
+                  "x": 1133.6878662109375,
                   "y": 230,
                   "w": 10.62421703338623,
                   "h": 7.621751308441162,
@@ -19475,7 +19475,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
                   "pr": " border-radius : 2px;\nborder-color: #2f54eb;\nborder-width : 1px;\n"
                  },
                  {
-                  "x": 1133.6875,
+                  "x": 1133.6878662109375,
                   "y": 290,
                   "w": 10.62421703338623,
                   "h": 7.621751308441162,
@@ -19654,7 +19654,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
                 "pr": "background-color: #d9d9d9;\n"
                },
                {
-                "x": 824.146484375,
+                "x": 824.14599609375,
                 "y": 285.14599609375,
                 "w": 11.708000183105469,
                 "h": 11.708000183105469,
@@ -19967,10 +19967,10 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
                 "tp": "Symbol",
                 "c": [
                  {
-                  "x": 599.75,
+                  "x": 599.750244140625,
                   "y": 97.751953125,
-                  "w": 12.500001907348633,
-                  "h": 12.500001907348633,
+                  "w": 12.500000953674316,
+                  "h": 12.500000953674316,
                   "ii": 1751,
                   "n": "Vector",
                   "tp": "ShapePath",
@@ -20252,7 +20252,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
                   "tp": "Symbol",
                   "c": [
                    {
-                    "x": 549.2060546875,
+                    "x": 549.206298828125,
                     "y": 167.177734375,
                     "w": 9.588347434997559,
                     "h": 9.643210411071777,
@@ -20771,7 +20771,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
                         "pr": "background-color: #d9d9d9;\n"
                        },
                        {
-                        "x": 574.6669921875,
+                        "x": 574.6666870117188,
                         "y": 280.8353271484375,
                         "w": 8.4375,
                         "h": 10.329082489013672,
@@ -21053,7 +21053,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
                         "pr": "background-color: #d9d9d9;\n"
                        },
                        {
-                        "x": 574.6669921875,
+                        "x": 574.6666870117188,
                         "y": 340.8353271484375,
                         "w": 8.4375,
                         "h": 10.329082489013672,
@@ -21327,8 +21327,8 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
             "tp": "Symbol",
             "c": [
              {
-              "x": 25.8447265625,
-              "y": 24.215087890625,
+              "x": 25.845001220703125,
+              "y": 24.2149658203125,
               "w": 34.13249588012695,
               "h": 26.5987491607666,
               "ii": 1870,
@@ -21444,7 +21444,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
                   "pr": "background-color: #d9d9d9;\n"
                  },
                  {
-                  "x": 25.6669921875,
+                  "x": 25.667007446289062,
                   "y": 95.6669921875,
                   "w": 16.666000366210938,
                   "h": 16.666000366210938,
@@ -21543,7 +21543,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
                     "pr": "background-color: #d9d9d9;\n"
                    },
                    {
-                    "x": 25.6826171875,
+                    "x": 25.682159423828125,
                     "y": 143.6669921875,
                     "w": 16.61542510986328,
                     "h": 16.666000366210938,
@@ -21959,7 +21959,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
       "tp": "ShapePath",
       "c": [
        {
-        "x": 778.9990234375,
+        "x": 778.99951171875,
         "y": 120,
         "w": 0.0010000000474974513,
         "h": 0.0010000000474974513,
@@ -25547,7 +25547,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
                   "pr": "background-color: #d9d9d9;\n"
                  },
                  {
-                  "x": 25.6826171875,
+                  "x": 25.68212890625,
                   "y": 151.6669921875,
                   "w": 16.61542510986328,
                   "h": 16.666000366210938,
@@ -26028,7 +26028,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
                   "pr": "background-color: #d9d9d9;\n"
                  },
                  {
-                  "x": 952.271484375,
+                  "x": 952.27099609375,
                   "y": 30.5,
                   "w": 13.437000274658203,
                   "h": 15,
@@ -26212,7 +26212,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
                 "tp": "Symbol",
                 "c": [
                  {
-                  "x": 467.2060546875,
+                  "x": 467.206298828125,
                   "y": 114.177734375,
                   "w": 9.588347434997559,
                   "h": 9.643210411071777,
@@ -26529,7 +26529,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
                   "pr": " border-radius : 2px;\nborder-color: #2f54eb;\nborder-width : 1px;\n"
                  },
                  {
-                  "x": 1133.6875,
+                  "x": 1133.68798828125,
                   "y": 170,
                   "w": 10.62421703338623,
                   "h": 7.621751308441162,
@@ -26621,7 +26621,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
                 "pr": " border-radius : 2px;\nborder-color: #2f54eb;\nborder-width : 1px;\n"
                },
                {
-                "x": 380.6875,
+                "x": 380.6878662109375,
                 "y": 230,
                 "w": 10.62421703338623,
                 "h": 7.621751308441162,
@@ -26775,7 +26775,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
                   "pr": " border-radius : 2px;\nborder-color: #2f54eb;\nborder-width : 1px;\n"
                  },
                  {
-                  "x": 1133.6875,
+                  "x": 1133.68798828125,
                   "y": 230,
                   "w": 10.62421703338623,
                   "h": 7.621751308441162,
@@ -27001,7 +27001,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
                   "pr": " border-radius : 2px;\nborder-color: #2f54eb;\nborder-width : 1px;\n"
                  },
                  {
-                  "x": 1133.6875,
+                  "x": 1133.68798828125,
                   "y": 290,
                   "w": 10.62421703338623,
                   "h": 7.621751308441162,
@@ -27180,7 +27180,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
                 "pr": "background-color: #d9d9d9;\n"
                },
                {
-                "x": 873.146484375,
+                "x": 873.14599609375,
                 "y": 238.14599609375,
                 "w": 11.708000183105469,
                 "h": 11.708000183105469,
@@ -27562,7 +27562,7 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
             "pr": " border-radius : 2px;\nborder-color: #1890ff00;\nborder-width : 1px;\n"
            },
            {
-            "x": 591.6875,
+            "x": 591.68798828125,
             "y": 534,
             "w": 10.62421703338623,
             "h": 7.621751308441162,
@@ -28286,9 +28286,9 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
       "c": [
        {
         "x": 1381.3717041015625,
-        "y": 397.999755859375,
-        "w": 13.253131866455078,
-        "h": 13.999029159545898,
+        "y": 397.99993896484375,
+        "w": 13.253130912780762,
+        "h": 13.999028205871582,
         "ii": 2475,
         "n": "Vector",
         "tp": "ShapePath",
@@ -29854,10 +29854,10 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
       "tp": "Symbol",
       "c": [
        {
-        "x": 1384.371826171875,
-        "y": 400.999755859375,
-        "w": 13.253131866455078,
-        "h": 13.999029159545898,
+        "x": 1384.3717041015625,
+        "y": 400.99993896484375,
+        "w": 13.253130912780762,
+        "h": 13.999028205871582,
         "ii": 2609,
         "n": "Vector",
         "tp": "ShapePath",
@@ -30100,10 +30100,10 @@ const SYMBOLS_DICT = {}; const TOKENS_DICT = {};var layersData =  [
       "tp": "Symbol",
       "c": [
        {
-        "x": 1384.371826171875,
-        "y": 400.999755859375,
-        "w": 13.253131866455078,
-        "h": 13.999029159545898,
+        "x": 1384.3717041015625,
+        "y": 400.99993896484375,
+        "w": 13.253130912780762,
+        "h": 13.999028205871582,
         "ii": 2629,
         "n": "Vector",
         "tp": "ShapePath",
