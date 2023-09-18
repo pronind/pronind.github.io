@@ -1,0 +1,1253 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+        <link rel="prev" href="../VJUX/">
+      
+      
+        <link rel="next" href="../../%D0%9A%D0%BE%D0%BC%D0%BF%D0%BE%D0%BD%D0%B5%D0%BD%D1%82%D1%8B/Status/">
+      
+      
+      <link rel="icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.5.2, mkdocs-material-9.3.1">
+    
+    
+      
+        <title>Figma для разработчика - My Docs</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.046329b4.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=SB+Sans+Text:300,300i,400,400i,700,700i%7CConsolas:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"SB Sans Text";--md-code-font:"Consolas"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../stylesheets/extra.css">
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    <body dir="ltr">
+  
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&"object"==typeof palette.color)for(var key of Object.keys(palette.color))document.body.setAttribute("data-md-color-"+key,palette.color[key])</script>
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#figma" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="My Docs" class="md-header__button md-logo" aria-label="My Docs" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            My Docs
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Figma для разработчика
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="My Docs" class="md-nav__button md-logo" aria-label="My Docs" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
+
+    </a>
+    My Docs
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Введение
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" >
+        
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Принципы
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            Принципы
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../%D0%9F%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF%D1%8B/%D0%98%D0%BA%D0%BE%D0%BD%D0%BA%D0%B8/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Иконки
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../%D0%9F%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF%D1%8B/%D0%9A%D0%B0%D1%81%D1%82%D0%BE%D0%BC%D0%BD%D1%8B%D0%B5-%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%BD%D0%B5%D0%BD%D1%82%D1%8B/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Кастомные компоненты
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../%D0%9F%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF%D1%8B/%D0%9A%D0%BE%D0%BC%D0%BF%D0%BE%D0%BD%D0%B5%D0%BD%D1%82-vs-%D0%92%D0%B8%D0%B4%D0%B6%D0%B5%D1%82/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Компонент vs Виджет
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../%D0%9F%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF%D1%8B/%D0%9D%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-%D1%81%D0%BB%D0%BE%D0%B5%D0%B2/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Названия слоёв
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../%D0%9F%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF%D1%8B/%D0%9E%D1%82%D1%81%D1%82%D1%83%D0%BF%D1%8B/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Отступы и дивайдеры
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../%D0%9F%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF%D1%8B/%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0-%D0%B2%D0%B0%D0%BB%D0%B8%D0%B4%D0%B0%D1%86%D0%B8%D0%B8/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Правила валидации
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../%D0%9F%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF%D1%8B/%D0%A2%D0%B8%D0%BF%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%BA%D0%B0/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Типографика
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../%D0%9F%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF%D1%8B/%D0%A2%D0%BE%D0%BA%D0%B5%D0%BD%D1%8B-%D0%B8-%D0%B0%D1%82%D1%80%D0%B8%D0%B1%D1%83%D1%82%D1%8B/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Токены и атрибуты
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../%D0%9F%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF%D1%8B/%D0%A4%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D1%81%D1%83%D0%BC%D0%BC/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Форматирование сумм
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../%D0%9F%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF%D1%8B/%D0%A6%D0%B2%D0%B5%D1%82/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Цвет
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" checked>
+        
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Figma
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            Figma
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../%D0%9F%D0%BB%D0%B0%D0%B3%D0%B8%D0%BD%D1%8B/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Плагины
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B8/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Библиотеки
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../LIBRO/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    LIBRO
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../User-Flow/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    User Flow
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../VJUX/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    VJUX
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    Figma для разработчика
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  <span class="md-ellipsis">
+    Figma для разработчика
+  </span>
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#_1" class="md-nav__link">
+    Отсмотр первых набросков
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#figma_1" class="md-nav__link">
+    Работа с макетом в Figma
+  </a>
+  
+    <nav class="md-nav" aria-label="Работа с макетом в Figma">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#_2" class="md-nav__link">
+    Как выделить компонент
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_3" class="md-nav__link">
+    Как определить размеры элемента
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_4" class="md-nav__link">
+    Как найти название иконки, которую использовал дизайнер
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_5" class="md-nav__link">
+    Какой компонент использован в макете
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_6" class="md-nav__link">
+    Как определить цвет и использовать его в коде?
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_7" class="md-nav__link">
+    Как проверить макет в тёмной теме
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_8" class="md-nav__link">
+    Какой текстовый стиль использован
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_9" class="md-nav__link">
+    Отступы между элементами
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_10" class="md-nav__link">
+    Итоговая проверка
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_11" class="md-nav__link">
+    Проверка работы
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" >
+        
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Компоненты
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            Компоненты
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../%D0%9A%D0%BE%D0%BC%D0%BF%D0%BE%D0%BD%D0%B5%D0%BD%D1%82%D1%8B/Status/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Status
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" >
+        
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Лонгриды
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            Лонгриды
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../%D0%9B%D0%BE%D0%BD%D0%B3%D1%80%D0%B8%D0%B4%D1%8B/%D0%9F%D0%BE%D1%80%D1%8F%D0%B4%D0%BE%D0%BA-%D0%B2-%D0%BC%D0%B0%D0%BA%D0%B5%D1%82%D0%B0%D1%85/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Порядок в макетах
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6" >
+        
+          <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Релизы
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6">
+            <span class="md-nav__icon md-icon"></span>
+            Релизы
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../%D0%A0%D0%B5%D0%BB%D0%B8%D0%B7%D1%8B/2022Q1-%C2%B7-%D0%9D%D0%B5-%D0%BE%D0%BF%D1%8F%D1%82%D1%8C%2C-a-c-NOVA/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    2022Q1 · Не опять, a c NOVA
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#_1" class="md-nav__link">
+    Отсмотр первых набросков
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#figma_1" class="md-nav__link">
+    Работа с макетом в Figma
+  </a>
+  
+    <nav class="md-nav" aria-label="Работа с макетом в Figma">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#_2" class="md-nav__link">
+    Как выделить компонент
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_3" class="md-nav__link">
+    Как определить размеры элемента
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_4" class="md-nav__link">
+    Как найти название иконки, которую использовал дизайнер
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_5" class="md-nav__link">
+    Какой компонент использован в макете
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_6" class="md-nav__link">
+    Как определить цвет и использовать его в коде?
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_7" class="md-nav__link">
+    Как проверить макет в тёмной теме
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_8" class="md-nav__link">
+    Какой текстовый стиль использован
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_9" class="md-nav__link">
+    Отступы между элементами
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_10" class="md-nav__link">
+    Итоговая проверка
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_11" class="md-nav__link">
+    Проверка работы
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+<h1 id="figma">Figma для разработчика</h1>
+<p>Перед тем как приступить к проектированию сценария, дизайнеру стоит обсудить с командой, что он планирует сделать. Вы разработчик, как технический специалист, можете предложить изменения и улучшения, которые помогут избежать подводных камней на этапе реализации. Также при ревью PR вы, возможно, уже встречали реализацию схожих сценариев в других командах и можете поделиться этим с дизайнером. </p>
+<p><a href="https://confluence.sberbank.ru/pages/viewpage.action?pageId=1956544885">Сonfluence: Сборка МП СБОЛ для демонстрации сценариев</a></p>
+<p>Вы влияете на продукт с начала его создания и можете подсказать продакту и дизайнеру, как удобнее и быстрее сделать ту или иную функциональность.</p>
+<h2 id="_1">Отсмотр первых набросков</h2>
+<p>Дизайнер должен делиться и обсуждать с разработчиками первые наброски, а не показывать первый раз, когда уже готов окончательный вариант макета. Если это не принято в вашей команде, то самое время внедрить эту практику. На этом этапе вам необходимо:</p>
+<ul>
+<li>убедиться, что у вас есть права на просмотр макетов в Figma, позаботьтесь об этом до финальной передачи макетов;</li>
+<li>уточнить все непонятные моменты в сценарии, например, как ведут себя компоненты, когда клиент пользуется интерфейсом;</li>
+<li>проверить, хватает ли информации от команды для начала разработки, указать, что ещё нужно;</li>
+<li>подсветить сроки разработки кастомных решений, если таковые имеются.</li>
+<li>проверить, соответствуют ли экраны привычным паттернам платформы, нет ли антипаттернов;</li>
+<li>уточнить до старта разработки, переданы ли все токены и иконки для добавления в дизайн-систему.</li>
+</ul>
+<p><a href="https://confluence.sberbank.ru/pages/viewpage.action?pageId=2281637614">Сonfluence: Как получить доступ Figma</a></p>
+<h2 id="figma_1">Работа с макетом в Figma</h2>
+<p>Макеты получены, все вопросы уточнены, и теперь можно приступать к разработке. Если осталось что-то непонятное, обратитесь в чаты поддержки.</p>
+<p>Не приступайте к разработке, пока макеты не утверждены окончательно.</p>
+<p><a href="https://sbervideo.sberbank.ru/watch/zmKntXK23wGHou3v74">SberVideo: митап 2020 года, ответы на важные вопросы</a></p>
+<h3 id="_2">Как выделить компонент</h3>
+<p>Иногда при клике выделяются вложенные слои, а не компонент целиком, в таком случае параметры и название компонента в разделе <strong>Inspect</strong> не отобразятся. Для получения необходимой информации о компоненте нажмите на элемент, который похож на прицел.</p>
+<p><img alt="" src="https://app.dsgnsystem.ru/images/figma/figma-for-developer/Image_8.png" /></p>
+<h3 id="_3">Как определить размеры элемента</h3>
+<ul>
+<li>Выделите компонент, кликнув по нему. Иногда из-за сложной вложенности не получается попасть на нужный элемент. Для удобства воспользуйтесь древом слоёв слева, постепенно раскрывая элементы, и доберетесь до необходимого.</li>
+<li>Перейдите в правой панели в раздел <strong>Inspect</strong>.</li>
+<li>Размеры компонента вы сможете найти в секции <strong>Properties</strong>.</li>
+</ul>
+<p><img alt="" src="https://app.dsgnsystem.ru/images/figma/figma-for-developer/Image_1.png" /></p>
+<h3 id="_4">Как найти название иконки, которую использовал дизайнер</h3>
+<ul>
+<li>Выделите непосредственно иконку в левой панели Figma.</li>
+<li>Перейдите в раздел <strong>Instance</strong> в правой панели<strong>.</strong></li>
+<li>Прокрутите до конца списка, найдите секцию <strong>Instance</strong>, нажмите <strong>Go to main component</strong><strong>.</strong></li>
+</ul>
+<p><img alt="" src="https://app.dsgnsystem.ru/images/figma/figma-for-developer/Image_2.png" /></p>
+<p>Второй вариант начала пути.</p>
+<ul>
+<li>Выделите непосредственно иконку в левой панели Figma.</li>
+<li>Кликните по иконке правой кнопкой мыши и выберите в выпавшем контекстном меню <strong>Go to main component.</strong></li>
+</ul>
+<p><img alt="" src="https://app.dsgnsystem.ru/images/figma/figma-for-developer/Image_2-1.png" /></p>
+<p>Далее путь одинаковый для обоих вариантов выше.</p>
+<ul>
+<li>В открывшемся разделе icons иконка, к которой вы перешли, будет выделена.</li>
+<li>Перейдите в правой панели в раздел <strong>Inspect</strong>.</li>
+<li>В правой панели сверху можно посмотреть название иконки. Если оно не поместилось полностью, то продублировано в секции <strong>Code.</strong> Также название отображено и в левой панели. В iOS иконки используются без символа нижнего подчеркивания и написаны CamelCase'ом.</li>
+</ul>
+<p><img alt="" src="https://app.dsgnsystem.ru/images/figma/figma-for-developer/Image_3.png" /></p>
+<p>P.S. Иконки может не быть в коде, если её никто не передал команде дизайн-системы на добавление.</p>
+<p><a href="https://confluence.sberbank.ru/pages/viewpage.action?pageId=4294618425">Сonfluence: Заявка на добавление иконки</a></p>
+<h3 id="_5">Какой компонент использован в макете</h3>
+<ul>
+<li>Выделите компонент.</li>
+<li>Перейдите в раздел <strong>Inspect</strong> в правой панели<strong>.</strong></li>
+<li>В правой панели, сразу после названия компонента в UI Kit, будет раздел с комментариями к компоненту: <strong>Design</strong> — полное название в UI Kit, <strong>Code</strong> — название в коде, <strong>WorkFlow</strong> — название виджета, <strong>Note</strong> — полезная информация по компоненту.</li>
+</ul>
+<p>Если напротив Code или Workflow стоит символ ✗, значит этого компонента там нет. Перейдя к материнскому компоненту через <strong>Go to main component</strong>, можно увидеть ещё одно состояние помимо описанных выше, если повешен красный бейдж: deprecated.</p>
+<p><img alt="" src="https://app.dsgnsystem.ru/images/figma/figma-for-developer/Image_4.png" /></p>
+<ul>
+<li>Если у компонента полностью отсутсвует описание, указанное выше, то значит он не из UI Kit дизайн-системы. Дизайнер может подать заявку на добавление компонента в дизайн-систему или получить зелёный свет для реализации кастома.</li>
+</ul>
+<p><a href="https://confluence.sberbank.ru/pages/viewpage.action?pageId=5448599148">Сonfluence: Заявка на добавление компонента</a></p>
+<h3 id="_6">Как определить цвет и использовать его в коде?</h3>
+<ul>
+<li>Выделите компонент.</li>
+<li>Справа в секции <strong>Colors</strong> будет указан либо токен, либо цвет из палитры.</li>
+</ul>
+<p>Если токена нет и указан hex цвета, то есть вероятность, что токен «слетел». Дизайнеру необходимо переназначить его.</p>
+<p><img alt="" src="https://app.dsgnsystem.ru/images/figma/figma-for-developer/Image_5.png" /></p>
+<h3 id="_7">Как проверить макет в тёмной теме</h3>
+<p>Перед выполнением шагов убедитесь, что у вас установлен плагин <strong>VJUX</strong>.</p>
+<p><a href="https://confluence.sberbank.ru/x/O4B_IwE">Как установить плагин</a></p>
+<ul>
+<li>Выделите и скопируйте в буфер экран (или экраны), который хотите посмотреть в другой теме.</li>
+<li>Создайте новый дизайн-файл в Figma в drafts, в нём у вас будут доступны права редактирования.</li>
+<li>Вставьте файлы из буфера на полотно.</li>
+<li>Выделите те части, которые хотите перекрасить и проверить их в тёмной теме.</li>
+<li>Перейдите в меню Plugins.</li>
+<li>Выберите VJUX.</li>
+<li>Выберите тему, в которую надо перекрасить. В первый раз перекраска может происходить с задержкой, последующие — почти моментально.</li>
+</ul>
+<p><img alt="" src="https://app.dsgnsystem.ru/images/figma/figma-for-developer/Image_6.png" /></p>
+<h3 id="_8">Какой текстовый стиль использован</h3>
+<ul>
+<li>Выделите текстовый блок на макете.</li>
+<li>В правой панели отобразится информация по стилю и токену цвета.</li>
+<li>В Figma указано: Title/Semibold. Соответствие в коде: Title1. В таблице матчинга стилей будет указано:</li>
+</ul>
+<blockquote>
+<p>Title1 (Title/Semibold) Значение в коде / Значение из Figma</p>
+</blockquote>
+<p><img alt="" src="https://app.dsgnsystem.ru/images/figma/figma-for-developer/Image_7.png" /></p>
+<p>Чтобы сопоставить стиль со значением в коде, воспользуйтесь страницей <strong>Style Matching</strong> в UI Kit в Figma.</p>
+<p>SBOL Design Department → NOVA SBOL Libraries → 01・SBOL・iOS・UI kit → Styles SBOL Design Department → NOVA SBOL Libraries → 01・SBOL・Android・UI kit → Styles</p>
+<h3 id="_9">Отступы между элементами</h3>
+<p>Часто бывает, что в макете между компонентами сделаны отступы и их надо повторить в коде. Чтобы узнать отступ от одного компонента до другого, выберите нужный объект и, зажав на клавиатуре <code>option ⌥</code> ( <code>alt</code> на Windows), наведите курсор на другой компонент.</p>
+<p>В iOS в таблицах используйте компонент: <strong>SpacerIte</strong><strong>m</strong>— , в Android используйте: <strong>DesignSpacerLayout</strong>.</p>
+<h3 id="_10">Итоговая проверка</h3>
+<p>После того как вы заканчиваете работу над экраном, обязательно проверьте все ли правильно свёрстано:</p>
+<ul>
+<li>выделите и скопируйте в буфер экран (или экраны), который хотите проверить;</li>
+<li>создайте новый документ, в нём у вас будут доступны права редактирования;</li>
+<li>сделайте скриншот с экрана устройства;</li>
+<li>вставьте скриншот на рабочую область в Figma;</li>
+<li>подгоните под размер макета: на iOS необходимо поделить ширину вставленного файла на 2 (для iPhone с UIScreen.scale = 2) или 3 (если UIScreen.scale = 3), на Android необходимо выставить ширину экрана 360 (например для эмулятора Nexus);</li>
+<li>у скриншота выставьте прозрачность на 50%;</li>
+<li>наложите скриншот на макет (по несовпадающим точкам будет понятно, где ошибка).</li>
+</ul>
+<h2 id="_11">Проверка работы</h2>
+<p>Во время работы над фичей дизайнер обязательно проводит вместе с разработчиком авторский надзор. Показывайте дизайнеру разработанные экраны, скринкасты прохождения сценария, отдельно уделите внимание сложным компонентам и их работе. Старайтесь больше обсуждать, это позволит уже на этапе разработки находить и исправлять неточности в сценариях, что ускорит запуск вашей фичи.</p>
+<p>После того как новый сценарий разработан и протестирован, вам предстоит этап ПСИ. И чем больше вы взаимодействовали между собой, тем проще он пройдёт. </p>
+<p>Удачного выхода в пром и развития вашей фичи!</p>
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+    
+      
+      <nav class="md-footer__inner md-grid" aria-label="Footer" >
+        
+          
+          <a href="../VJUX/" class="md-footer__link md-footer__link--prev" aria-label="Previous: VJUX" rel="prev">
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+            </div>
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Previous
+              </span>
+              <div class="md-ellipsis">
+                VJUX
+              </div>
+            </div>
+          </a>
+        
+        
+          
+          <a href="../../%D0%9A%D0%BE%D0%BC%D0%BF%D0%BE%D0%BD%D0%B5%D0%BD%D1%82%D1%8B/Status/" class="md-footer__link md-footer__link--next" aria-label="Next: Status" rel="next">
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Next
+              </span>
+              <div class="md-ellipsis">
+                Status
+              </div>
+            </div>
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4Z"/></svg>
+            </div>
+          </a>
+        
+      </nav>
+    
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    <script id="__config" type="application/json">{"base": "../..", "features": ["navigation.footer"], "search": "../../assets/javascripts/workers/search.dfff1995.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.dff1b7c8.min.js"></script>
+      
+    
+  </body>
+</html>
