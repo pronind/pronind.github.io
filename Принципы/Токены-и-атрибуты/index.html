@@ -1,0 +1,1113 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+        <link rel="prev" href="../%D0%A2%D0%B8%D0%BF%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%BA%D0%B0/">
+      
+      
+        <link rel="next" href="../%D0%A4%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D1%81%D1%83%D0%BC%D0%BC/">
+      
+      
+      <link rel="icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.5.2, mkdocs-material-9.3.1">
+    
+    
+      
+        <title>Токены и атрибуты - My Docs</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.046329b4.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=SB+Sans+Text:300,300i,400,400i,700,700i%7CConsolas:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"SB Sans Text";--md-code-font:"Consolas"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../stylesheets/extra.css">
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    <body dir="ltr">
+  
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&"object"==typeof palette.color)for(var key of Object.keys(palette.color))document.body.setAttribute("data-md-color-"+key,palette.color[key])</script>
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#_1" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="My Docs" class="md-header__button md-logo" aria-label="My Docs" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            My Docs
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Токены и атрибуты
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="My Docs" class="md-nav__button md-logo" aria-label="My Docs" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
+
+    </a>
+    My Docs
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Введение
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" checked>
+        
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Принципы
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            Принципы
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../%D0%98%D0%BA%D0%BE%D0%BD%D0%BA%D0%B8/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Иконки
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../%D0%9A%D0%B0%D1%81%D1%82%D0%BE%D0%BC%D0%BD%D1%8B%D0%B5-%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%BD%D0%B5%D0%BD%D1%82%D1%8B/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Кастомные компоненты
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../%D0%9A%D0%BE%D0%BC%D0%BF%D0%BE%D0%BD%D0%B5%D0%BD%D1%82-vs-%D0%92%D0%B8%D0%B4%D0%B6%D0%B5%D1%82/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Компонент vs Виджет
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../%D0%9D%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-%D1%81%D0%BB%D0%BE%D1%91%D0%B2/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Названия слоёв
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../%D0%9E%D1%82%D1%81%D1%82%D1%83%D0%BF%D1%8B-%D0%B8-%D0%B4%D0%B8%D0%B2%D0%B0%D0%B9%D0%B4%D0%B5%D1%80%D1%8B/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Отступы и дивайдеры
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0-%D0%B2%D0%B0%D0%BB%D0%B8%D0%B4%D0%B0%D1%86%D0%B8%D0%B8/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Правила валидации
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../%D0%A2%D0%B8%D0%BF%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%BA%D0%B0/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Типографика
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    Токены и атрибуты
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  <span class="md-ellipsis">
+    Токены и атрибуты
+  </span>
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#_2" class="md-nav__link">
+    Библиотека токенов
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_3" class="md-nav__link">
+    Новые токены
+  </a>
+  
+    <nav class="md-nav" aria-label="Новые токены">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#_4" class="md-nav__link">
+    Что делать, когда нужен новый токен:
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_5" class="md-nav__link">
+    Как выбрать цвет
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_6" class="md-nav__link">
+    Локальные библиотеки
+  </a>
+  
+    <nav class="md-nav" aria-label="Локальные библиотеки">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#_7" class="md-nav__link">
+    Название токенов
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#figma" class="md-nav__link">
+    Как завести токен в Figma
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../%D0%A4%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D1%81%D1%83%D0%BC%D0%BC/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Форматирование сумм
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../%D0%A6%D0%B2%D0%B5%D1%82/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Цвет
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+        
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Figma
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            Figma
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Figma/%D0%9F%D0%BB%D0%B0%D0%B3%D0%B8%D0%BD%D1%8B/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Плагины
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Figma/%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B8/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Библиотеки
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Figma/LIBRO/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    LIBRO
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Figma/User-Flow/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    User Flow
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Figma/VJUX/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    VJUX
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Figma/Figma-%D0%B4%D0%BB%D1%8F-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%D0%B0/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Figma для разработчика
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" >
+        
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Компоненты
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            Компоненты
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../%D0%9A%D0%BE%D0%BC%D0%BF%D0%BE%D0%BD%D0%B5%D0%BD%D1%82%D1%8B/Status/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Status
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" >
+        
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Лонгриды
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            Лонгриды
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../%D0%9B%D0%BE%D0%BD%D0%B3%D1%80%D0%B8%D0%B4%D1%8B/%D0%9F%D0%BE%D1%80%D1%8F%D0%B4%D0%BE%D0%BA-%D0%B2-%D0%BC%D0%B0%D0%BA%D0%B5%D1%82%D0%B0%D1%85/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Порядок в макетах
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6" >
+        
+          <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Релизы
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6">
+            <span class="md-nav__icon md-icon"></span>
+            Релизы
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../%D0%A0%D0%B5%D0%BB%D0%B8%D0%B7%D1%8B/2022Q1-%C2%B7-%D0%9D%D0%B5-%D0%BE%D0%BF%D1%8F%D1%82%D1%8C%2C-a-c-NOVA/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    2022Q1 · Не опять, a c NOVA
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#_2" class="md-nav__link">
+    Библиотека токенов
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_3" class="md-nav__link">
+    Новые токены
+  </a>
+  
+    <nav class="md-nav" aria-label="Новые токены">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#_4" class="md-nav__link">
+    Что делать, когда нужен новый токен:
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_5" class="md-nav__link">
+    Как выбрать цвет
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_6" class="md-nav__link">
+    Локальные библиотеки
+  </a>
+  
+    <nav class="md-nav" aria-label="Локальные библиотеки">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#_7" class="md-nav__link">
+    Название токенов
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#figma" class="md-nav__link">
+    Как завести токен в Figma
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+<h1 id="_1">Токены и атрибуты</h1>
+<p>Токены или атрибуты — это уникальные идентификаторы, которые обозначают соответствия переменных в разных темах приложения. Токены могут определять цвет, стиль текста, скругление углов, отступы и другие параметры. Разница названий обусловлена терминологией платформ: для iOS — токены, для Android — атрибуты. Далее мы будем говорить «токены», подразумевая как токены, так и атрибуты.</p>
+<p><img alt="" src="https://app.dsgnsystem.ru/images/principles/tokens-and-attributes/Image_1.png" /></p>
+<p>Токены незаменимы в больших продуктах, потому что позволяют делать массовые обновления автоматически. Изменение значений токена отражается во всех компонентах, содержащих его. Такой подход оптимизирует процессы дизайна и разработки, поддерживать консистентность становится гораздо проще.</p>
+<p><img alt="" src="https://app.dsgnsystem.ru/images/principles/tokens-and-attributes/Image_2.png" /></p>
+<p>Токен цвета и цвет из палитры не одно и то же. Токену всегда присвоено несколько цветовых значений: по одному для каждой темы. Как минимум токен содержит цветовую пару для светлой и тёмной темы. Цветовая пара токена может состоять из одинаковых оттенков, если не нужна смена цвета в разных темах.</p>
+<p><img alt="" src="https://app.dsgnsystem.ru/images/principles/tokens-and-attributes/Image_3.png" /></p>
+<h2 id="_2">Библиотека токенов</h2>
+<p>У каждого компонента дизайн-системы есть набор токенов цвета, позволяющий управлять цветами в разных темах — в дизайне и коде. Токены хранятся в библиотеках и сгруппированы по назначению. Все токены, за редким исключением, — кроссплатформенные и имеют одно название для iOS и Android.</p>
+<ul>
+<li><strong>Core・Mobile・Tokens</strong> — библиотека токенов с цветовыми парами для компонентов и ресурсов проекта NOVA Core Libraries.</li>
+</ul>
+<p>SBOL Design Department → NOVA Core Libraries → 02・Core・Mobile・Tokens</p>
+<ul>
+<li><strong>SBOL・Mobile・Tokens</strong> — дополнительная библиотека токенов. Содержит только СБОЛ-специфичные наборы для компонентов и ресурсов проекта NOVA SBOL Libraries.</li>
+</ul>
+<p>SBOL Design Department → NOVA SBOL Libraries → 02・SBOL・Mobile・Tokens</p>
+<p>Подробнее о разнице проектов NOVA Core Libraries и NOVA SBOL Libraries вы можете прочитать <a href="https://app.dsgnsystem.ru/libraries">в статье о библиотеках</a>.</p>
+<h2 id="_3">Новые токены</h2>
+<p>Иногда чтобы создать новую продуктовую концепцию или кастомный компонент, может понадобиться новый токен.</p>
+<h3 id="_4">Что делать, когда нужен новый токен:</h3>
+<p><img alt="" src="https://app.dsgnsystem.ru/images/principles/tokens-and-attributes/Image_4.png" /></p>
+<p>Чтобы добавить токен в библиотеку дизайн-системы, нужно обязательно завести заявку и пройти ревью.</p>
+<p><a href="https://confluence.sberbank.ru/x/YZeyAgE">Сonfluence: Заявка на добавление токена или цвета</a></p>
+<p>Рекомендуем использовать именно токены цвета. Статически прописывать данные цвета в коде допустимо только в исключительных случаях. Фиксированные цвета сложно поддерживать в дизайне и коде: они не поддаются системному обновлению и править их приходится вручную. Когда в дизайне всем компонентам назначены токены, перевести макеты из светлой темы в тёмную можно в два клика при помощи <a href="https://app.dsgnsystem.ru/vjux">плагина VJUX</a>.</p>
+<h3 id="_5">Как выбрать цвет</h3>
+<p>Абсолютно для всех токенов оттенок должен быть подобран из принятых дизайн-системой палитр: <strong>Palette</strong> — основная палитра, <strong>Extended Palette</strong> — дополнительная палитра. Приоритет за основной палитрой. Если у вас исключительный случай и понадобился новый цвет, он добавляется в дополнительную палитру. Например, если у продукта уникальный цвет, которого нет в палитрах, то перед тем как оформлять заявку на добавление нового токена, <a href="https://confluence.sberbank.ru/x/YZeyAgE">заполните заявку</a> на добавление цвета в <strong>Extended Palette</strong>. Подробнее о разнице палитр прочитайте <a href="https://app.dsgnsystem.ru/color">в статье о цвете</a>.</p>
+<p>SBOL Design Department → NOVA Core Libraries → 04・Palette SBOL Design Department → NOVA SBOL Libraries → 04・Extended Palette</p>
+<h2 id="_6"><a href="https://app.dsgnsystem.ru/icons#lokalnye-biblioteki">Локальные библиотеки</a></h2>
+<p>Если вам нужно создать локальную библиотеку токенов, вот краткая инструкция.</p>
+<ul>
+<li>Создайте файл в пространстве вашей команды с названием по примеру: <strong>Название вашей команды・Tokens.</strong></li>
+<li>В файле сделайте таблицу, в которой будут записаны необходимые параметры токенов. Можете воспользоваться примером таблицы из дизайн-системы, скопировав себе шаблон. Обязательные колонки в таблице токенов: название токена, образцы цветов для светлой и тёмной темы, параметры hex-цвета.</li>
+<li>Наполните таблицу данными.</li>
+<li>Заведите токены: сначала для светлой темы, потом для тёмной. Как завести токен, мы расскажем в статье чуть ниже.</li>
+<li>Опубликуйте библиотеку стилей.</li>
+<li>Подключите эту библиотеку к нужному проекту.</li>
+</ul>
+<p><a href="https://help.figma.com/hc/en-us/sections/360006233714-Components-and-styles">Figma Help: Components and styles</a></p>
+<h3 id="_7">Название токенов</h3>
+<p>Чтобы не запутать другие команды, делайте названия по правилам, поддерживайте консистентность. Токен всегда назван латиницей со строчной буквы. Как пример рассмотрим структуру названия токена для иконок <strong>ds_iconPrimary</strong>:</p>
+<ul>
+<li>[ <strong>ds_</strong> ] — название команды;</li>
+<li>[ <strong>icon</strong> ] — назначение, может быть: text, background, button, banner, и другое;</li>
+<li>[ <strong>Primary</strong> ] — значимость, может быть: Brand (цвет бренда), Primary (базовый), Secondary (второстепенный), Constant (не меняет оттенок зависимо от темы) и другое.</li>
+</ul>
+<p>Также в названии могут быть указаны:</p>
+<ul>
+<li>Свойства цвета: Gradient, Transparent, Inverse;</li>
+<li>Состояние: Enabled, Highlighted, Disabled, Accent, Success, Warning, Critical.</li>
+<li>И другие характеристики, которые помогут связывать пару токен → объект.</li>
+</ul>
+<h3 id="figma">Как завести токен в Figma</h3>
+<ul>
+<li>Откройте файл с таблицей токенов. Заполните данные для нового токена в таблице, назначив образцы цветов для разных тем. Значение цвета должно быть в hex-коде; если вы выбрали цвет из палитры, то разорвите связь объекта с предзаданным стилем.</li>
+<li>Выделите один из образцов цвета. Каждый стиль токена для светлой и тёмной темы добавляется отдельно.</li>
+<li>В панели справа, напротив заголовка <strong>Fill</strong> (Заливка) нажмите на иконку в виде 4 точек.</li>
+<li>В выпавшем окне, напротив заголовка <strong>Color Styles</strong> (Стили цвета) нажмите на плюс.</li>
+<li>В центре экрана появится диалоговое окно <strong>Create new color style</strong>, где в нужном формате необходимо заполнить название токена.</li>
+</ul>
+<p><img alt="" src="https://app.dsgnsystem.ru/images/principles/tokens-and-attributes/Image_5.png" /></p>
+<p>Когда добавляете токены в стили, укажите ряд триггеров, по которым Figma будет ранжировать их. Условно строку названия можно разделить на четыре части: <strong>название группы</strong> + <strong>символ соответствия теме</strong> + <strong>слеш</strong> + <strong>название токена</strong>. Как пример рассмотрим токен дизайн-системы <strong>Icon (L) / ds_iconPrimary</strong> (светлая тема) и <strong>Icon (D) / ds_iconPrimary</strong> (тёмная тема)<strong>:</strong></p>
+<ul>
+<li>[ <strong>Icon</strong> ] — название группы, в которую могут быть добавлены несколько токенов. Название группы должно соответствовать назначению токена, в нашем примере это icon. Название группы всегда пишется латинскими буквами с заглавной буквы, в отличие от названия самого токена.</li>
+<li>[ <strong>(L)</strong> ] или [ <strong>(D)</strong> ] — специальные символы, благодаря которым новые токены делятся по типу для разных тем. Для локальных библиотек вы можете выбрать иные обозначения.</li>
+<li>[  <strong>/</strong>  ] — слеш межу названием группы и названием токена помогает Figma отделить одно от другого.</li>
+<li>[ <strong>ds_iconPrimary</strong> ] — после слеша прописываем полное название нового токена. Как составить название токена, мы рассказываем выше.</li>
+<li>Нажимаем <strong>Create style</strong>. Готово!</li>
+</ul>
+<p><img alt="" src="https://app.dsgnsystem.ru/images/principles/tokens-and-attributes/Image_6.png" /></p>
+<p>Проверьте, что токен появился в группе, список стилей в Figma расположен на панели справа. И наконец, обновите библиотеку через панель <strong>Assets</strong>.</p>
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    <script id="__config" type="application/json">{"base": "../..", "features": [], "search": "../../assets/javascripts/workers/search.dfff1995.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.dff1b7c8.min.js"></script>
+      
+    
+  </body>
+</html>
